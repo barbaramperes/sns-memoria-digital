@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "data_referencia": "2024-12",
+    "metodologia": "População INE (Census 2021, atualização 2023). Utentes sem médico de família calculados aplicando a taxa oficial da ARS regional à população do distrito. Hospitais e Urgências contam unidades hospitalares públicas integradas em ULS reportadas no portal SNS (sns.gov.pt/entidades-de-saude).",
+    "fontes": {
+      "populacao": "INE — Estimativas Anuais da População Residente (2023)",
+      "sem_medico_familia": "ACSS via HealthNews/Renascença/Público — taxas regionais de utentes sem médico de família atribuído (Norte 2.6%, Centro 12.6%, LVT 27.7%, Alentejo 17.3%, Algarve 20%; média nacional 14.5%, ~1,5M utentes em Dez/2024)",
+      "hospitais": "SNS — Entidades de Saúde (sns.gov.pt/institucional/entidades-de-saude)",
+      "urgencias": "Estimativa baseada na rede de urgências SNS publicada pelo Ministério da Saúde"
+    },
+    "nota": "Os números por distrito são uma aproximação derivada de taxas regionais oficiais (ARS) e da população do distrito. A ACSS reporta dados por ARS/ULS, não por distrito administrativo. Para dados oficiais detalhados consultar transparencia.sns.gov.pt."
+  },
+  "Aveiro": { "populacao": 714200, "sem_medico": 90000, "regiao": "Centro", "taxa_regional_pct": 12.6, "urgencias": 10, "hospitais": 2, "centros_saude": 14, "score": 6 },
+  "Beja": { "populacao": 152800, "sem_medico": 26400, "regiao": "Alentejo", "taxa_regional_pct": 17.3, "urgencias": 3, "hospitais": 1, "centros_saude": 6, "score": 6 },
+  "Braga": { "populacao": 848200, "sem_medico": 22000, "regiao": "Norte", "taxa_regional_pct": 2.6, "urgencias": 15, "hospitais": 2, "centros_saude": 18, "score": 8 },
+  "Braganca": { "populacao": 136300, "sem_medico": 3500, "regiao": "Norte", "taxa_regional_pct": 2.6, "urgencias": 4, "hospitais": 1, "centros_saude": 8, "score": 8 },
+  "Castelo Branco": { "populacao": 196300, "sem_medico": 24700, "regiao": "Centro", "taxa_regional_pct": 12.6, "urgencias": 4, "hospitais": 1, "centros_saude": 7, "score": 6 },
+  "Coimbra": { "populacao": 430100, "sem_medico": 54200, "regiao": "Centro", "taxa_regional_pct": 12.6, "urgencias": 12, "hospitais": 3, "centros_saude": 16, "score": 6 },
+  "Evora": { "populacao": 166700, "sem_medico": 28800, "regiao": "Alentejo", "taxa_regional_pct": 17.3, "urgencias": 5, "hospitais": 1, "centros_saude": 9, "score": 6 },
+  "Faro": { "populacao": 467500, "sem_medico": 93500, "regiao": "Algarve", "taxa_regional_pct": 20.0, "urgencias": 14, "hospitais": 2, "centros_saude": 12, "score": 5 },
+  "Guarda": { "populacao": 160900, "sem_medico": 20300, "regiao": "Centro", "taxa_regional_pct": 12.6, "urgencias": 3, "hospitais": 1, "centros_saude": 8, "score": 6 },
+  "Leiria": { "populacao": 470900, "sem_medico": 59300, "regiao": "Centro", "taxa_regional_pct": 12.6, "urgencias": 9, "hospitais": 1, "centros_saude": 12, "score": 6 },
+  "Lisboa": { "populacao": 2275600, "sem_medico": 630300, "regiao": "Lisboa e Vale do Tejo", "taxa_regional_pct": 27.7, "urgencias": 55, "hospitais": 10, "centros_saude": 45, "score": 3 },
+  "Portalegre": { "populacao": 118500, "sem_medico": 20500, "regiao": "Alentejo", "taxa_regional_pct": 17.3, "urgencias": 3, "hospitais": 1, "centros_saude": 6, "score": 6 },
+  "Porto": { "populacao": 1737400, "sem_medico": 45200, "regiao": "Norte", "taxa_regional_pct": 2.6, "urgencias": 35, "hospitais": 6, "centros_saude": 28, "score": 8 },
+  "Santarem": { "populacao": 453600, "sem_medico": 125700, "regiao": "Lisboa e Vale do Tejo", "taxa_regional_pct": 27.7, "urgencias": 8, "hospitais": 2, "centros_saude": 13, "score": 4 },
+  "Setubal": { "populacao": 851300, "sem_medico": 235800, "regiao": "Lisboa e Vale do Tejo", "taxa_regional_pct": 27.7, "urgencias": 22, "hospitais": 3, "centros_saude": 16, "score": 4 },
+  "Viana do Castelo": { "populacao": 244800, "sem_medico": 6400, "regiao": "Norte", "taxa_regional_pct": 2.6, "urgencias": 8, "hospitais": 1, "centros_saude": 12, "score": 8 },
+  "Vila Real": { "populacao": 207200, "sem_medico": 5400, "regiao": "Norte", "taxa_regional_pct": 2.6, "urgencias": 6, "hospitais": 1, "centros_saude": 10, "score": 8 },
+  "Viseu": { "populacao": 377600, "sem_medico": 47600, "regiao": "Centro", "taxa_regional_pct": 12.6, "urgencias": 8, "hospitais": 1, "centros_saude": 12, "score": 6 },
+  "Madeira": { "populacao": 251100, "sem_medico": 36400, "regiao": "RA Madeira (SESARAM)", "taxa_regional_pct": 14.5, "urgencias": 5, "hospitais": 1, "centros_saude": 8, "score": 6 },
+  "Acores": { "populacao": 236400, "sem_medico": 34300, "regiao": "RA Açores (SRS)", "taxa_regional_pct": 14.5, "urgencias": 6, "hospitais": 2, "centros_saude": 10, "score": 6 }
+}

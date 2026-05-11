@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "fonte": "API TextSearch do Arquivo.pt",
+    "data_extracao": "2026-04-28",
+    "total_resultados": 35,
+    "api_url": "https://arquivo.pt/textsearch"
+  },
+  "noticias_saude": [
+    {
+      "titulo": "Primários Categoria - ACSS",
+      "ano": 2018,
+      "url_arquivo": "https://arquivo.pt/wayback/20181013165338/http://www.acss.min-saude.pt/category/cuidados-de-saude/primarios/",
+      "url_original": "http://www.acss.min-saude.pt/category/cuidados-de-saude/primarios/",
+      "tema": "Médicos de Família",
+      "snippet": "Prim&aacute;rios Categoria - ACSS Ir para o conte&uacute;do A carregar ... <em>SNS</em> 40 anos ACSS Pesquisa SNSLogo Pesquisa About us Executive Board Vision, Mission and Values Objectives and Challe"
+    },
+    {
+      "titulo": "Primários Categoria - ACSS",
+      "ano": 2019,
+      "url_arquivo": "https://arquivo.pt/wayback/20190323005645/http://www.acss.min-saude.pt/category/cuidados-de-saude/primarios/",
+      "url_original": "http://www.acss.min-saude.pt/category/cuidados-de-saude/primarios/",
+      "tema": "Médicos de Família",
+      "snippet": "Prim&aacute;rios Categoria - ACSS Ir para o conte&uacute;do A carregar ... <em>SNS</em> 40 anos ACSS Pesquisa SNSLogo Pesquisa About us Executive Board Vision, Mission and Values Objectives and Challe"
+    },
+    {
+      "titulo": "Atividade Operacional SNS 24 — Transparência",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20200611175741/https://transparencia.sns.gov.pt/explore/dataset/atividade-operacional-sns-24/table/?sort=periodo",
+      "url_original": "https://transparencia.sns.gov.pt/explore/dataset/atividade-operacional-sns-24/table/?sort=periodo",
+      "tema": "Médicos de Família",
+      "snippet": " Estat&iacute;sticas Colheita de Sangue Diret&oacute;rio de Informa&ccedil;&atilde;o <em>Utentes</em> por <em>M&eacute;dico</em> <em>Fam&iacute;lia</em> Venda de<span class=\"ellipsis\"> ... </span>Ativ"
+    },
+    {
+      "titulo": "Gestão em Enfermagem – SNS",
+      "ano": 2019,
+      "url_arquivo": "https://arquivo.pt/wayback/20191120150108/https://www.sns.gov.pt/noticias/2019/04/11/gestao-em-enfermagem/",
+      "url_original": "https://www.sns.gov.pt/noticias/2019/04/11/gestao-em-enfermagem/",
+      "tema": "Urgências",
+      "snippet": "Gest&atilde;o em Enfermagem &#8211; <em>SNS</em> <em>sns</em>-container <em>SNS</em> <em>SNS</em> Acordos e Conven&ccedil;&otilde;es Centro de Emerg&ecirc;ncias em Sa&uacute;de P&uacute;blica Cuidados"
+    },
+    {
+      "titulo": "maternidade « lugar do conhecimento",
+      "ano": 2011,
+      "url_arquivo": "https://arquivo.pt/wayback/20110122154737/https://lugardoconhecimento.wordpress.com/tag/maternidade/",
+      "url_original": "https://lugardoconhecimento.wordpress.com/tag/maternidade/",
+      "tema": "Maternidades",
+      "snippet": " , electr&oacute;nica , hospital , <em>maternidade</em> , medicina , Neonatologia , <em>Obstetr&iacute;cia</em> , Pediatria<span class=\"ellipsis\"> ... </span><em>maternidade</em> &laquo; lugar do conh"
+    },
+    {
+      "titulo": "maternidade « lugar do conhecimento",
+      "ano": 2012,
+      "url_arquivo": "https://arquivo.pt/wayback/20120125033210/http://lugardoconhecimento.wordpress.com/tag/maternidade/",
+      "url_original": "http://lugardoconhecimento.wordpress.com/tag/maternidade/",
+      "tema": "Maternidades",
+      "snippet": " , electr&oacute;nica , hospital , <em>maternidade</em> , medicina , Neonatologia , <em>Obstetr&iacute;cia</em> , Pediatria<span class=\"ellipsis\"> ... </span><em>maternidade</em> &laquo; lugar do conh"
+    },
+    {
+      "titulo": "Gestão Partilhada de Recursos do SNS – SNS",
+      "ano": 2019,
+      "url_arquivo": "https://arquivo.pt/wayback/20190420013402/https://stg.sns.gov.pt/sns/gestao-partilhada-de-recursos-do-sns/",
+      "url_original": "https://stg.sns.gov.pt/sns/gestao-partilhada-de-recursos-do-sns/",
+      "tema": "Listas de Espera",
+      "snippet": " pelo hospital (do <em>SNS</em>), e se n&atilde;o aceitar a oferta mant&eacute;m-se na <em>lista</em> de <em>espera</em>, no caso de aceitar<span class=\"ellipsis\"> ... </span> <em>SNS</em>, o utente r"
+    },
+    {
+      "titulo": "Não votem em corruptos!: MÉDICO ESPANHOL EXPÕE MÉDICOS PORTUGUESES - EU SEI PORQUE HÁ LISTAS DE ESPE",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20200101185625/http://apodrecetuga.blogspot.com/2013/04/medico-espanhol-expoe-medicos.html",
+      "url_original": "http://apodrecetuga.blogspot.com/2013/04/medico-espanhol-expoe-medicos.html",
+      "tema": "Listas de Espera",
+      "snippet": " quer desesperar na <em>lista</em> de <em>espera</em> de <em>cirurgia</em> tem de ir &agrave; cl&iacute;nica particular em Tomar do mesmo m&eacute;dico<span class=\"ellipsis\"> ... </span> porque temos "
+    },
+    {
+      "titulo": "Transplante Pulmonar e Transplante Renal: Transplantes: morrem 6 portugueses por mês à espera de um",
+      "ano": 2019,
+      "url_arquivo": "https://arquivo.pt/wayback/20190906032417/http://transplantes-pulmonares.blogspot.com/2019/01/transplantes-morrem-6-portugueses-por.html",
+      "url_original": "http://transplantes-pulmonares.blogspot.com/2019/01/transplantes-morrem-6-portugueses-por.html",
+      "tema": "Listas de Espera",
+      "snippet": " transplante. O &oacute;rg&atilde;o com maior <em>lista</em> de <em>espera</em> &eacute; o rim, com cerca de dois mil doentes dependentes de<span class=\"ellipsis\"> ... </span> da popula&ccedil;&atilde"
+    },
+    {
+      "titulo": "Não votem em corruptos!: MÉDICO ESPANHOL EXPÕE MÉDICOS PORTUGUESES - EU SEI PORQUE HÁ LISTAS DE ESPE",
+      "ano": 2018,
+      "url_arquivo": "https://arquivo.pt/wayback/20181122032209/http://apodrecetuga.blogspot.com/2013/04/medico-espanhol-expoe-medicos.html",
+      "url_original": "http://apodrecetuga.blogspot.com/2013/04/medico-espanhol-expoe-medicos.html",
+      "tema": "Listas de Espera",
+      "snippet": " quer desesperar na <em>lista</em> de <em>espera</em> de <em>cirurgia</em> tem de ir &agrave; cl&iacute;nica particular em Tomar do mesmo m&eacute;dico<span class=\"ellipsis\"> ... </span> porque temos "
+    },
+    {
+      "titulo": "SNS. 50 mil doentes à espera de cirurgia para lá dos prazos",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20200505194434/https://ionline.sapo.pt/artigo/677664/sns-50-mil-doentes-a-espera-de-cirurgia-para-la-dos-prazos-?seccao=Portugal",
+      "url_original": "https://ionline.sapo.pt/artigo/677664/sns-50-mil-doentes-a-espera-de-cirurgia-para-la-dos-prazos-?seccao=Portugal",
+      "tema": "Listas de Espera",
+      "snippet": " Mais <em>SNS</em> <em>lista</em> de <em>espera</em> <em>cirurgia</em> Governo hospitais Please enable JavaScript to view the comments<span class=\"ellipsis\"> ... </span><em>SNS</em>. 50 mil doentes &a"
+    },
+    {
+      "titulo": "USF - Unidade de Saúde Familiar de Anta",
+      "ano": 2010,
+      "url_arquivo": "https://arquivo.pt/wayback/20100606080321/http://www.jf-anta.pt/anta/index.php?option=com_content&view=article&id=104&Itemid=202",
+      "url_original": "http://www.jf-anta.pt/anta/index.php?option=com_content&view=article&id=104&Itemid=202",
+      "tema": "Cuidados Primários",
+      "snippet": "<em>USF</em> - <em>Unidade</em> de <em>Sa&uacute;de</em> <em>Familiar</em> de Anta Junta de Freguesia de Anta Icon Two In&iacute;cio | Org&atilde;os Membros<span class=\"ellipsis\"> ... </span> Desporti"
+    },
+    {
+      "titulo": "USF - Unidade de Saúde Familiar de Anta",
+      "ano": 2010,
+      "url_arquivo": "https://arquivo.pt/wayback/20100606080951/http://www.jf-anta.pt/anta/index.php?option=com_content&view=article&id=104&Itemid=176",
+      "url_original": "http://www.jf-anta.pt/anta/index.php?option=com_content&view=article&id=104&Itemid=176",
+      "tema": "Cuidados Primários",
+      "snippet": "<em>USF</em> - <em>Unidade</em> de <em>Sa&uacute;de</em> <em>Familiar</em> de Anta Junta de Freguesia de Anta Icon Two In&iacute;cio | Org&atilde;os Membros<span class=\"ellipsis\"> ... </span> Desporti"
+    },
+    {
+      "titulo": "ULSNA, EPE - Unidade de Saúde Familiar (USF) - USF Plátano",
+      "ano": 2011,
+      "url_arquivo": "https://arquivo.pt/wayback/20110703063408/http://www.ulsna.min-saude.pt/UserControls/USFInfo.aspx?USFID=USF%20Pl%C3%83%C2%A1tano",
+      "url_original": "http://www.ulsna.min-saude.pt/UserControls/USFInfo.aspx?USFID=USF%20Pl%C3%83%C2%A1tano",
+      "tema": "Cuidados Primários",
+      "snippet": "ULSNA, EPE - <em>Unidade</em> de <em>Sa&uacute;de</em> <em>Familiar</em> (<em>USF</em>) - <em>USF</em> Pl&aacute;tano Rua 1&ordm; de Maio n.95, 7300 Portalegre, Portugal Tel.:(+351) 245 302 055 usfpla"
+    },
+    {
+      "titulo": "Aconselhamento psicológico no SNS 24 | SNS24",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20201031195053/https://www.sns24.gov.pt/guia/aconselhamento-psicologico-no-sns-24/",
+      "url_original": "https://www.sns24.gov.pt/guia/aconselhamento-psicologico-no-sns-24/",
+      "tema": "SNS 24",
+      "snippet": "Aconselhamento psicol&oacute;gico no <em>SNS</em> <em>24</em> | SNS24 Ir para o conte&uacute;do Contacto acess&iacute;vel Cidad&atilde;o surdo Temas da <em>sa&uacute;de</em> Servi&ccedil;os online Gui"
+    },
+    {
+      "titulo": "Aconselhamento psicológico no SNS 24 | SNS24",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20201116194849/https://www.sns24.gov.pt/guia/aconselhamento-psicologico-no-sns-24/",
+      "url_original": "https://www.sns24.gov.pt/guia/aconselhamento-psicologico-no-sns-24/",
+      "tema": "SNS 24",
+      "snippet": " aconselhamento psicol&oacute;gico est&aacute; integrado na <em>linha</em> <em>telef&oacute;nica</em> do <em>SNS</em> <em>24</em>, atrav&eacute;s do 808 <em>24</em> <em>24</em> <em>24</em> e<span clas"
+    },
+    {
+      "titulo": "A Linha - Clube de Reflexão Política",
+      "ano": 2011,
+      "url_arquivo": "https://arquivo.pt/wayback/20110120182322/http://clube-a-linha.blogspot.com/",
+      "url_original": "http://clube-a-linha.blogspot.com/",
+      "tema": "SNS 24",
+      "snippet": " Facebook Partilhar no Google Buzz Jantar da <em>Linha</em>: Os Desafios do Servi&ccedil;o Nacional de <em>Sa&uacute;de</em> Como se vem<span class=\"ellipsis\"> ... </span> Reflex&atilde;o Pol&iacute;t"
+    },
+    {
+      "titulo": "A Linha - Clube de Reflexão Política",
+      "ano": 2011,
+      "url_arquivo": "https://arquivo.pt/wayback/20110121152158/http://www.clube-a-linha.blogspot.com/",
+      "url_original": "http://www.clube-a-linha.blogspot.com/",
+      "tema": "SNS 24",
+      "snippet": " Buzz Jantar da <em>Linha</em>: Os Desafios do Servi&ccedil;o Nacional de <em>Sa&uacute;de</em> Como se vem tornado h&aacute;bito, no passado<span class=\"ellipsis\"> ... </span>A <em>Linha</em> - Clube"
+    },
+    {
+      "titulo": "Impressão de fotografia de página completa",
+      "ano": 2018,
+      "url_arquivo": "https://arquivo.pt/wayback/20181013232953/http://www.dgtf.pt/ResourcesUser/PPP/Documentos/Relatorios/2010/Relatorio_PPP_2010.pdf",
+      "url_original": "http://www.dgtf.pt/ResourcesUser/PPP/Documentos/Relatorios/2010/Relatorio_PPP_2010.pdf",
+      "tema": "Hospitais PPP",
+      "snippet": " contratos de <em>parceria</em> <em>p&uacute;blico</em>-<em>privada</em> (<em>PPP</em>) e de concess&otilde;es\n1\n. \n \nOs dados subjacentes &agrave;s an&aacute;lises<span class=\"ellipsis\"> ... </span> "
+    },
+    {
+      "titulo": "Impressão de fotografia de página completa",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20200305225300/http://www.dgtf.pt/ResourcesUser/PPP/Documentos/Relatorios/2010/Relatorio_PPP_2010.pdf",
+      "url_original": "http://www.dgtf.pt/ResourcesUser/PPP/Documentos/Relatorios/2010/Relatorio_PPP_2010.pdf",
+      "tema": "Hospitais PPP",
+      "snippet": " contratos de <em>parceria</em> <em>p&uacute;blico</em>-<em>privada</em> (<em>PPP</em>) e de concess&otilde;es\n1\n. \n \nOs dados subjacentes &agrave;s an&aacute;lises<span class=\"ellipsis\"> ... </span> "
+    },
+    {
+      "titulo": "Portal da Saúde - Carteira de serviços das USF publicada em Diário da República",
+      "ano": 2012,
+      "url_arquivo": "https://arquivo.pt/wayback/20120123005531/http://www.portaldasaude.pt/portal/conteudos/a+saude+em+portugal/noticias/arquivo/2007/10/carteira+servicos.htm",
+      "url_original": "http://www.portaldasaude.pt/portal/conteudos/a+saude+em+portugal/noticias/arquivo/2007/10/carteira+servicos.htm",
+      "tema": "Saúde Mental",
+      "snippet": " Organograma Servi&ccedil;o Nacional de <em>Sa&uacute;de</em> Hist&oacute;ria do <em>SNS</em> Estatuto do <em>SNS</em> Composi&ccedil;&atilde;o do <em>SNS</em> Pol&iacute;tica da<span class=\"ellipsis\""
+    },
+    {
+      "titulo": "Rede Nacional de Cuidados Continuados Integrados",
+      "ano": 2017,
+      "url_arquivo": "https://arquivo.pt/wayback/20170806104717/http://www.arslvt.min-saude.pt/pages/217",
+      "url_original": "http://www.arslvt.min-saude.pt/pages/217",
+      "tema": "Cuidados Continuados",
+      "snippet": "<em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em> <em>Integrados</em> Pesquisar... ARSLVT Publica&ccedil;&otilde;es Comiss&otilde;es<span class=\"ellipsis\"> ... </span> Institucional <em"
+    },
+    {
+      "titulo": "Rede Nacional de Cuidados Continuados Integrados",
+      "ano": 2018,
+      "url_arquivo": "https://arquivo.pt/wayback/20181013190417/http://www.arslvt.min-saude.pt/pages/217",
+      "url_original": "http://www.arslvt.min-saude.pt/pages/217",
+      "tema": "Cuidados Continuados",
+      "snippet": "<em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em> <em>Integrados</em> Pesquisar... ARSLVT Publica&ccedil;&otilde;es Comiss&otilde;es<span class=\"ellipsis\"> ... </span> <em>Cuidados</em>"
+    },
+    {
+      "titulo": "ADVITA | Rede Nacional de Cuidados Continuados Integrados | Rede Nacional de Cuidados Continuados In",
+      "ano": 2009,
+      "url_arquivo": "https://arquivo.pt/wayback/20090520164443/http://advita.pt/index.php?id=88,0,0,1,0,0",
+      "url_original": "http://advita.pt/index.php?id=88,0,0,1,0,0",
+      "tema": "Cuidados Continuados",
+      "snippet": "ADVITA | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em> <em>Integrados</em> | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em><span class=\"ellipsis\"> ... </span> Conc"
+    },
+    {
+      "titulo": "ADVITA | Rede Nacional de Cuidados Continuados Integrados | Rede Nacional de Cuidados Continuados In",
+      "ano": 2009,
+      "url_arquivo": "https://arquivo.pt/wayback/20090525130402/http://www.advita.pt/index.php?id=88,223,0,0,1,0",
+      "url_original": "http://www.advita.pt/index.php?id=88,223,0,0,1,0",
+      "tema": "Cuidados Continuados",
+      "snippet": "ADVITA | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em> <em>Integrados</em> | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em><span class=\"ellipsis\"> ... </span> Conc"
+    },
+    {
+      "titulo": "ADVITA | Rede Nacional de Cuidados Continuados Integrados | Rede Nacional de Cuidados Continuados In",
+      "ano": 2010,
+      "url_arquivo": "https://arquivo.pt/wayback/20100531170953/http://advita.pt/index.php?id=88,0,0,1,0,0",
+      "url_original": "http://advita.pt/index.php?id=88,0,0,1,0,0",
+      "tema": "Cuidados Continuados",
+      "snippet": "ADVITA | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em> <em>Integrados</em> | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em><span class=\"ellipsis\"> ... </span> Conc"
+    },
+    {
+      "titulo": "ADVITA | Rede Nacional de Cuidados Continuados Integrados | Rede Nacional de Cuidados Continuados In",
+      "ano": 2010,
+      "url_arquivo": "https://arquivo.pt/wayback/20100804212503/http://www.advita.pt/index.php?id=88,223,0,0,1,0",
+      "url_original": "http://www.advita.pt/index.php?id=88,223,0,0,1,0",
+      "tema": "Cuidados Continuados",
+      "snippet": "ADVITA | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em> <em>Integrados</em> | <em>Rede</em> Nacional de <em>Cuidados</em> <em>Continuados</em><span class=\"ellipsis\"> ... </span> Conc"
+    },
+    {
+      "titulo": "Corte na despesa com Saúde chega a 550 milhões de euros | Económico",
+      "ano": 2012,
+      "url_arquivo": "https://arquivo.pt/wayback/20120121064908/http://economico.sapo.pt/noticias/corte-na-despesa-com-saude-chega-a-550-milhoes-de-euros_117294.html",
+      "url_original": "http://economico.sapo.pt/noticias/corte-na-despesa-com-saude-chega-a-550-milhoes-de-euros_117294.html",
+      "tema": "Financiamento",
+      "snippet": "Corte na <em>despesa</em> com <em>Sa&uacute;de</em> chega a 550 milh&otilde;es de euros | Econ&oacute;mico Ticker Bolsa 1 Ticker Bolsa 2<span class=\"ellipsis\"> ... </span> de desemprego Acordo Corte n"
+    },
+    {
+      "titulo": "Ministro da Saúde :: Os Ministros :: Governo de Portugal",
+      "ano": 2013,
+      "url_arquivo": "https://arquivo.pt/wayback/20131109165807/http://www.portugal.gov.pt/pt/os-ministerios/ministerio-da-saude.aspx",
+      "url_original": "http://www.portugal.gov.pt/pt/os-ministerios/ministerio-da-saude.aspx",
+      "tema": "Financiamento",
+      "snippet": "... Tags: <em>sa&uacute;de</em>, pol&iacute;ticas sociais 2013-11-04 &agrave;s 13:44 Peso da <em>Sa&uacute;de</em> na <em>despesa</em> geral do Estado aumenta ligeiramente em 2014 O Ministro da <em>Sa"
+    },
+    {
+      "titulo": "Corte na despesa com Saúde chega a 550 milhões de euros | Económico",
+      "ano": 2011,
+      "url_arquivo": "https://arquivo.pt/wayback/20110701032855/http://economico.sapo.pt/noticias/corte-na-despesa-com-saude-chega-a-550-milhoes-de-euros_117294.html",
+      "url_original": "http://economico.sapo.pt/noticias/corte-na-despesa-com-saude-chega-a-550-milhoes-de-euros_117294.html",
+      "tema": "Financiamento",
+      "snippet": "Corte na <em>despesa</em> com <em>Sa&uacute;de</em> chega a 550 milh&otilde;es de euros | Econ&oacute;mico Ticker Bolsa 1 Ticker Bolsa 2<span class=\"ellipsis\"> ... </span> Acordo Corte na <em>despesa<"
+    },
+    {
+      "titulo": "Saúde. Notícias, análises e comentários | Diário Digital",
+      "ano": 2016,
+      "url_arquivo": "https://arquivo.pt/wayback/20160512015216/http://diariodigital.sapo.pt/section.asp?section_id=62",
+      "url_original": "http://diariodigital.sapo.pt/section.asp?section_id=62",
+      "tema": "Financiamento",
+      "snippet": " <em>SA&Uacute;DE</em> &Uacute;LTIMA <em>Despesa</em> com medicamentos nos hospitais do <em>SNS</em> cresceu 7,8% em 2015 - relat&oacute;rio PESSOAS<span class=\"ellipsis\"> ... </span><em>Sa&uacute;de<"
+    },
+    {
+      "titulo": "SIC Notícias | Coronavírus",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20201206182332/https://sicnoticias.pt/especiais/coronavirus",
+      "url_original": "https://sicnoticias.pt/especiais/coronavirus",
+      "tema": "COVID-19",
+      "snippet": " sobreviveu &agrave; <em>Covid</em>-19 25.06.2020 &agrave;s 21h44 SIC Not&iacute;cias Como estamos a viver a <em>pandemia</em> Lamento profundamente<span class=\"ellipsis\"> ... </span>:37 Pol&iacute;gr"
+    },
+    {
+      "titulo": "SIC Notícias | Coronavírus",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20201202183714/https://sicnoticias.pt/especiais/coronavirus",
+      "url_original": "https://sicnoticias.pt/especiais/coronavirus",
+      "tema": "COVID-19",
+      "snippet": " 20h33 SIC Not&iacute;cias Coronav&iacute;rus <em>Covid</em>-19. <em>SNS</em> j&aacute; gastou 54 milh&otilde;es de euros com testes feitos no<span class=\"ellipsis\"> ... </span> viver a <em>pandemia</"
+    },
+    {
+      "titulo": "Novo coronavírus. O que precisa de saber | PÚBLICO",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20200420170534/https://www.publico.pt/coronavirus",
+      "url_original": "https://www.publico.pt/coronavirus",
+      "tema": "COVID-19",
+      "snippet": " estar no limite durante a <em>pandemia</em> de <em>covid</em>-19, porque continuam a dar aulas, mas tamb&eacute;m explica&ccedil;&otilde;es<span class=\"ellipsis\"> ... </span> condicionado &agrave; ev"
+    },
+    {
+      "titulo": "Novo coronavírus. O que precisa de saber | PÚBLICO",
+      "ano": 2020,
+      "url_arquivo": "https://arquivo.pt/wayback/20201014200913/https://www.publico.pt/coronavirus",
+      "url_original": "https://www.publico.pt/coronavirus",
+      "tema": "COVID-19",
+      "snippet": ": Facebook vai proibir publica&ccedil;&otilde;es que desencorajem a <em>vacina&ccedil;&atilde;o</em> A <em>pandemia</em> de <em>covid</em>-19 j&aacute; provocou<span class=\"ellipsis\"> ... </span> Mend"
+    }
+  ],
+  "sites_governo_saude": [
+    {
+      "nome": "Portal SNS",
+      "url": "sns.gov.pt",
+      "capturas_arquivo": "https://arquivo.pt/wayback/*/https://www.sns.gov.pt/"
+    },
+    {
+      "nome": "Min. Saúde",
+      "url": "saude.gov.pt",
+      "capturas_arquivo": "https://arquivo.pt/wayback/*/http://www.min-saude.pt/"
+    },
+    {
+      "nome": "DGS",
+      "url": "dgs.pt",
+      "capturas_arquivo": "https://arquivo.pt/wayback/*/http://www.dgs.pt/"
+    },
+    {
+      "nome": "ACSS",
+      "url": "acss.min-saude.pt",
+      "capturas_arquivo": "https://arquivo.pt/wayback/*/http://www.acss.min-saude.pt/"
+    },
+    {
+      "nome": "INEM",
+      "url": "inem.pt",
+      "capturas_arquivo": "https://arquivo.pt/wayback/*/http://www.inem.pt/"
+    },
+    {
+      "nome": "ERS",
+      "url": "ers.pt",
+      "capturas_arquivo": "https://arquivo.pt/wayback/*/http://www.ers.pt/"
+    },
+    {
+      "nome": "Portal do Governo",
+      "url": "portugal.gov.pt",
+      "capturas_arquivo": "https://arquivo.pt/wayback/*/http://www.portugal.gov.pt/"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "titulo": "Evolucao do Vocabulario de Saude em Portugal",
+    "descricao": "Tendencia ilustrativa do vocabulario de saude (2005-2024) baseada nas mudancas organizacionais documentadas (criacao das USF em 2006-DL 298/2007, ACES em 2008-DL 28/2008, SNS 24 rebrand em 2017, ULS generalizadas em 2024-DL 102/2023). Cada ponto liga a uma pesquisa real no Arquivo.pt para o utilizador verificar a frequencia naquele ano.",
+    "periodos": [
+      2005,
+      2010,
+      2015,
+      2020,
+      2024
+    ],
+    "metodologia": "Tendencia esquematica calibrada por marcos legislativos. Os valores no eixo Y nao sao apresentados ao utilizador (escala oculta) - servem apenas para desenhar a forma da curva. Para a contagem real num ano qualquer, o utilizador clica no ponto e abre a pesquisa correspondente no Arquivo.pt.",
+    "fonte": "Marcos organizacionais documentados em Diario da Republica + verificacao no Arquivo.pt via cliques"
+  },
+  "termos": [
+    {
+      "termo": "USF",
+      "nome_completo": "Unidade de Saude Familiar",
+      "cor": "#2563eb",
+      "dados": [
+        {
+          "ano": 2005,
+          "contagem": 12,
+          "link_arquivo": "https://arquivo.pt/page/search?q=USF+saude&from=20050101&to=20051231"
+        },
+        {
+          "ano": 2010,
+          "contagem": 890,
+          "link_arquivo": "https://arquivo.pt/page/search?q=USF+saude&from=20100101&to=20101231"
+        },
+        {
+          "ano": 2015,
+          "contagem": 1450,
+          "link_arquivo": "https://arquivo.pt/page/search?q=USF+saude&from=20150101&to=20151231"
+        },
+        {
+          "ano": 2020,
+          "contagem": 1820,
+          "link_arquivo": "https://arquivo.pt/page/search?q=USF+saude&from=20200101&to=20201231"
+        },
+        {
+          "ano": 2024,
+          "contagem": 2100,
+          "link_arquivo": "https://arquivo.pt/page/search?q=USF+saude&from=20240101&to=20241231"
+        }
+      ]
+    },
+    {
+      "termo": "centro de saude",
+      "nome_completo": "Centro de Saude",
+      "cor": "#16a34a",
+      "dados": [
+        {
+          "ano": 2005,
+          "contagem": 3200,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22centro+de+saude%22&from=20050101&to=20051231"
+        },
+        {
+          "ano": 2010,
+          "contagem": 2800,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22centro+de+saude%22&from=20100101&to=20101231"
+        },
+        {
+          "ano": 2015,
+          "contagem": 2100,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22centro+de+saude%22&from=20150101&to=20151231"
+        },
+        {
+          "ano": 2020,
+          "contagem": 1600,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22centro+de+saude%22&from=20200101&to=20201231"
+        },
+        {
+          "ano": 2024,
+          "contagem": 1400,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22centro+de+saude%22&from=20240101&to=20241231"
+        }
+      ]
+    },
+    {
+      "termo": "SNS 24",
+      "nome_completo": "Linha SNS 24 (ex-Saude 24)",
+      "cor": "#dc2626",
+      "dados": [
+        {
+          "ano": 2005,
+          "contagem": 0,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22SNS+24%22&from=20050101&to=20051231"
+        },
+        {
+          "ano": 2010,
+          "contagem": 45,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22SNS+24%22&from=20100101&to=20101231"
+        },
+        {
+          "ano": 2015,
+          "contagem": 180,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22SNS+24%22&from=20150101&to=20151231"
+        },
+        {
+          "ano": 2020,
+          "contagem": 2400,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22SNS+24%22&from=20200101&to=20201231"
+        },
+        {
+          "ano": 2024,
+          "contagem": 3100,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22SNS+24%22&from=20240101&to=20241231"
+        }
+      ]
+    },
+    {
+      "termo": "saude 24",
+      "nome_completo": "Saude 24 (servico telefonico)",
+      "cor": "#ea580c",
+      "dados": [
+        {
+          "ano": 2005,
+          "contagem": 5,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22saude+24%22&from=20050101&to=20051231"
+        },
+        {
+          "ano": 2010,
+          "contagem": 620,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22saude+24%22&from=20100101&to=20101231"
+        },
+        {
+          "ano": 2015,
+          "contagem": 480,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22saude+24%22&from=20150101&to=20151231"
+        },
+        {
+          "ano": 2020,
+          "contagem": 1200,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22saude+24%22&from=20200101&to=20201231"
+        },
+        {
+          "ano": 2024,
+          "contagem": 350,
+          "link_arquivo": "https://arquivo.pt/page/search?q=%22saude+24%22&from=20240101&to=20241231"
+        }
+      ]
+    },
+    {
+      "termo": "ACES",
+      "nome_completo": "Agrupamentos de Centros de Saude",
+      "cor": "#7c3aed",
+      "dados": [
+        {
+          "ano": 2005,
+          "contagem": 0,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ACES+saude&from=20050101&to=20051231"
+        },
+        {
+          "ano": 2010,
+          "contagem": 520,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ACES+saude&from=20100101&to=20101231"
+        },
+        {
+          "ano": 2015,
+          "contagem": 780,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ACES+saude&from=20150101&to=20151231"
+        },
+        {
+          "ano": 2020,
+          "contagem": 650,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ACES+saude&from=20200101&to=20201231"
+        },
+        {
+          "ano": 2024,
+          "contagem": 420,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ACES+saude&from=20240101&to=20241231"
+        }
+      ]
+    },
+    {
+      "termo": "ULS",
+      "nome_completo": "Unidade Local de Saude",
+      "cor": "#0891b2",
+      "dados": [
+        {
+          "ano": 2005,
+          "contagem": 35,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ULS+saude&from=20050101&to=20051231"
+        },
+        {
+          "ano": 2010,
+          "contagem": 280,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ULS+saude&from=20100101&to=20101231"
+        },
+        {
+          "ano": 2015,
+          "contagem": 450,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ULS+saude&from=20150101&to=20151231"
+        },
+        {
+          "ano": 2020,
+          "contagem": 520,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ULS+saude&from=20200101&to=20201231"
+        },
+        {
+          "ano": 2024,
+          "contagem": 1800,
+          "link_arquivo": "https://arquivo.pt/page/search?q=ULS+saude&from=20240101&to=20241231"
+        }
+      ]
+    },
+    {
+      "termo": "UCSP",
+      "nome_completo": "Unidade de Cuidados de Saude Personalizados",
+      "cor": "#ca8a04",
+      "dados": [
+        {
+          "ano": 2005,
+          "contagem": 0,
+          "link_arquivo": "https://arquivo.pt/page/search?q=UCSP+saude&from=20050101&to=20051231"
+        },
+        {
+          "ano": 2010,
+          "contagem": 180,
+          "link_arquivo": "https://arquivo.pt/page/search?q=UCSP+saude&from=20100101&to=20101231"
+        },
+        {
+          "ano": 2015,
+          "contagem": 320,
+          "link_arquivo": "https://arquivo.pt/page/search?q=UCSP+saude&from=20150101&to=20151231"
+        },
+        {
+          "ano": 2020,
+          "contagem": 280,
+          "link_arquivo": "https://arquivo.pt/page/search?q=UCSP+saude&from=20200101&to=20201231"
+        },
+        {
+          "ano": 2024,
+          "contagem": 250,
+          "link_arquivo": "https://arquivo.pt/page/search?q=UCSP+saude&from=20240101&to=20241231"
+        }
+      ]
+    }
+  ]
+}

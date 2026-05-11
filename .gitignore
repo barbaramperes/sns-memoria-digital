@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# Vite build output — committed to repo so deploy doesn't depend on remote build
+# (regenerable with: cd frontend && npm run build)
+
+# Data outputs (regenerable)
+data/*.json
+!data/distritos_saude.json
+!data/vocabulario.json
+!data/promessas.json
+!data/sns_arquivo.json
+data/*.txt
+data/*.png
+data/*.html
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# Planning artifacts (internal, not for jury)
+.planning/

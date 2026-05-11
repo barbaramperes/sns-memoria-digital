@@ -1,0 +1,13 @@
+# SNS Memória Digital — dependências Python
+# Candidatura ao Prémio Arquivo.pt 2026
+
+# Cliente HTTP para a API do Arquivo.pt
+requests>=2.31.0,<3.0
+urllib3>=2.0.0,<3.0
+
+# Geração de gráficos (opcional, usada apenas pelo CLI)
+matplotlib>=3.7.0,<4.0
+
+# Servidor web
+flask>=3.0.0,<4.0
+gunicorn>=21.2.0,<23.0

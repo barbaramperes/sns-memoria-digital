@@ -1,0 +1,2969 @@
+{
+  "meta": {
+    "titulo": "SNS Memória Digital — Documentação histórica dos compromissos de saúde",
+    "descricao": "Compromissos de saúde assumidos por cada Governo Constitucional português desde 2005, documentados a partir de fontes oficiais preservadas no Arquivo.pt.",
+    "ultima_atualizacao": "2026-04-10",
+    "fontes": [
+      "Programas de Governo (Diário da República)",
+      "Portal do Governo (arquivo.pt)",
+      "Transparência SNS (sns.gov.pt)",
+      "ACSS — Administração Central do Sistema de Saúde",
+      "INE — Instituto Nacional de Estatística",
+      "ERS — Entidade Reguladora da Saúde"
+    ],
+    "fontes_verificadas": [
+      "ACSS — Administração Central do Sistema de Saúde",
+      "INEM — Instituto Nacional de Emergência Médica",
+      "INE — Instituto Nacional de Estatística",
+      "OCDE — Health at a Glance",
+      "ERS — Entidade Reguladora da Saúde",
+      "Portal Transparência SNS",
+      "Ordem dos Médicos",
+      "Ordem dos Enfermeiros"
+    ],
+    "metodologia": "Cada compromisso foi documentado a partir de fontes oficiais preservadas no Arquivo.pt. O estado de concretização foi registado com base em dados públicos do SNS, INE, ACSS e relatórios internacionais.",
+    "tom": "Neutro e documentário. Todos os registos remetem para a fonte primária no Arquivo.pt.",
+    "licenca": "CC BY 4.0"
+  },
+  "governos": [
+    {
+      "id": "XVII",
+      "pm": "José Sócrates",
+      "inicio": "2005-03",
+      "fim": "2009-10",
+      "ministros": "Correia de Campos (2005-2008), Ana Jorge (2008-2009)",
+      "partido": "PS",
+      "contexto": "Reforma dos cuidados primários e criação das Unidades de Saúde Familiar."
+    },
+    {
+      "id": "XVIII",
+      "pm": "José Sócrates",
+      "inicio": "2009-10",
+      "fim": "2011-06",
+      "ministros": "Ana Jorge",
+      "partido": "PS",
+      "contexto": "Conjuntura económica internacional e início do contexto de consolidação orçamental."
+    },
+    {
+      "id": "XIX",
+      "pm": "Pedro Passos Coelho",
+      "inicio": "2011-06",
+      "fim": "2015-11",
+      "ministros": "Paulo Macedo",
+      "partido": "PSD/CDS",
+      "contexto": "Programa de Assistência Económica e Financeira (Memorando da Troika, 2011-2014). Ajustamentos orçamentais na saúde documentados pela OCDE."
+    },
+    {
+      "id": "XXI",
+      "pm": "António Costa",
+      "inicio": "2015-11",
+      "fim": "2019-10",
+      "ministros": "Adalberto Campos Fernandes",
+      "partido": "PS",
+      "contexto": "Governo minoritário com acordos parlamentares. Retoma de contratações e reposição gradual de medidas anteriores ao Programa de Ajustamento."
+    },
+    {
+      "id": "XXII",
+      "pm": "António Costa",
+      "inicio": "2019-10",
+      "fim": "2022-03",
+      "ministros": "Marta Temido",
+      "partido": "PS",
+      "contexto": "Pandemia COVID-19: campanha de vacinação nacional e resposta do SNS ao maior desafio sanitário em décadas."
+    },
+    {
+      "id": "XXIII",
+      "pm": "António Costa",
+      "inicio": "2022-03",
+      "fim": "2024-04",
+      "ministros": "Manuel Pizarro",
+      "partido": "PS",
+      "contexto": "Período pós-pandémico. Tensões operacionais nas urgências hospitalares amplamente documentadas pelo SNS."
+    },
+    {
+      "id": "XXIV",
+      "pm": "Luís Montenegro",
+      "inicio": "2024-04",
+      "fim": "presente",
+      "ministros": "Ana Paula Martins",
+      "partido": "AD (PSD/CDS)",
+      "contexto": "Plano de emergência e transformação do SNS. Regime de dedicação plena dos médicos ao SNS."
+    }
+  ],
+  "promessas": [
+    {
+      "id": 1,
+      "governo": "XVII",
+      "ano": 2005,
+      "texto": "Garantir um médico de família a cada português, atingindo cobertura universal.",
+      "tema": "medicos_familia",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XVII Governo Constitucional, Cap. Saúde",
+      "cumprido": "nao",
+      "verificacao": "Em 2009, mais de 1 milhão de utentes permanecia sem médico de família atribuído, segundo dados da ACSS preservados no Arquivo.pt.",
+      "fonte_verificacao": "ACSS — Relatório de Acesso a Cuidados Primários"
+    },
+    {
+      "id": 2,
+      "governo": "XVII",
+      "ano": 2006,
+      "texto": "Criar a Rede Nacional de Cuidados Continuados Integrados com 2.800 camas até 2009.",
+      "tema": "cuidados_continuados",
+      "fonte_tipo": "Decreto-Lei",
+      "fonte_doc": "Decreto-Lei 101/2006 de 6 de Junho",
+      "cumprido": "parcial",
+      "verificacao": "A RNCCI foi criada em 2006. Em 2009 contava com cerca de 4.800 das 7.000 camas previstas e, ao longo dos anos, a rede foi sendo expandida gradualmente, ainda aquém do dimensionamento proposto.",
+      "fonte_verificacao": "Relatórios anuais RNCCI / ACSS"
+    },
+    {
+      "id": 3,
+      "governo": "XVII",
+      "ano": 2006,
+      "texto": "Criar Unidades de Saúde Familiar para reformar os cuidados de saúde primários.",
+      "tema": "cuidados_primarios",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Missão para os Cuidados de Saúde Primários",
+      "cumprido": "parcial",
+      "verificacao": "Foram criadas mais de 500 USF até 2015. O modelo é reconhecido internacionalmente como referência de reforma dos cuidados primários. A cobertura nacional tem sido progressivamente alargada.",
+      "fonte_verificacao": "ACSS — Relatório USF"
+    },
+    {
+      "id": 19,
+      "governo": "XVII",
+      "ano": 2006,
+      "texto": "Reestruturar a rede de maternidades para garantir segurança nos partos, concentrando serviços em hospitais com mais de 1.500 partos/ano.",
+      "tema": "maternidades",
+      "fonte_tipo": "Comissão Nacional de Saúde Materna e Neonatal",
+      "fonte_doc": "Relatório da Comissão Nacional de Saúde Materna e Neonatal, 2006",
+      "cumprido": "parcial",
+      "verificacao": "Oito maternidades foram encerradas de forma permanente entre 2006 e 2013, no âmbito da reestruturação. A mortalidade neonatal continuou a baixar no período. Dados do INEM documentam o número de partos pré-hospitalares assistidos: 181 (2022), 201 (2023), 225 (2024) e 277 (2025).",
+      "fonte_verificacao": "INE — Mortalidade Infantil; INEM — Partos pré-hospitalares"
+    },
+    {
+      "id": 20,
+      "governo": "XVII",
+      "ano": 2006,
+      "texto": "Lançar o Plano Nacional de Saúde Mental com ênfase na reforma psiquiátrica comunitária.",
+      "tema": "saude_mental",
+      "fonte_tipo": "Resolução do Conselho de Ministros",
+      "fonte_doc": "Plano Nacional de Saúde Mental 2007-2016",
+      "cumprido": "nao",
+      "verificacao": "O Plano foi aprovado em 2008. Em 2016, a avaliação da CNSMN apontou cerca de 20% das metas atingidas. A investigação internacional documenta Portugal entre os países europeus com maior consumo de benzodiazepinas.",
+      "fonte_verificacao": "CNSMN — Avaliação do Plano Nacional de Saúde Mental 2016"
+    },
+    {
+      "id": 32,
+      "governo": "XVII",
+      "ano": 2007,
+      "texto": "Criar o Centro de Contacto SNS (Saúde 24) como linha de triagem telefónica nacional.",
+      "tema": "saude_digital",
+      "fonte_tipo": "Despacho Ministerial",
+      "fonte_doc": "Despacho 9871/2007 — Criação da Linha Saúde 24",
+      "cumprido": "sim",
+      "verificacao": "A Saúde 24 foi lançada em 2007 e evoluiu para SNS 24 em 2017. Durante a pandemia COVID-19 tornou-se um dos canais centrais de acesso ao SNS.",
+      "fonte_verificacao": "SPMS — Histórico SNS 24"
+    },
+    {
+      "id": 21,
+      "governo": "XVIII",
+      "ano": 2009,
+      "texto": "Expandir o programa de cheques-dentista para cobrir grávidas, idosos e jovens até 16 anos.",
+      "tema": "saude_oral",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XVIII Governo Constitucional",
+      "cumprido": "parcial",
+      "verificacao": "O programa arrancou em 2008 para grávidas e crianças. Ao longo dos anos foi sendo alargado a novos grupos etários. O valor do cheque (entre 35 e 75 euros) tem sido objecto de debate técnico face à estrutura de custos dos tratamentos.",
+      "fonte_verificacao": "Ordem dos Médicos Dentistas — Barómetro de Saúde Oral"
+    },
+    {
+      "id": 4,
+      "governo": "XIX",
+      "ano": 2011,
+      "texto": "Garantir a sustentabilidade do SNS sem comprometer o acesso dos cidadãos.",
+      "tema": "financiamento",
+      "fonte_tipo": "Memorando de Entendimento (Troika)",
+      "fonte_doc": "Memorando da Troika — Componente Saúde, Maio 2011",
+      "cumprido": "nao",
+      "verificacao": "No âmbito do Programa de Assistência Económica e Financeira foram realizados ajustamentos orçamentais na saúde documentados pela OCDE (cerca de 600 milhões de euros em 2012). Foram revistos valores das taxas moderadoras e registados movimentos internacionais de profissionais de saúde documentados pela Ordem dos Médicos.",
+      "fonte_verificacao": "Tribunal de Contas — Auditoria ao SNS 2014; Ordem dos Médicos"
+    },
+    {
+      "id": 5,
+      "governo": "XIX",
+      "ano": 2012,
+      "texto": "Reorganizar a rede hospitalar para maior eficiência mantendo a qualidade.",
+      "tema": "hospitais",
+      "fonte_tipo": "Despacho Ministerial",
+      "fonte_doc": "Plano de Reestruturação Hospitalar 2012",
+      "cumprido": "nao",
+      "verificacao": "O plano deu origem a várias fusões hospitalares e à criação de centros hospitalares de maior dimensão. A reorganização gerou debate técnico sobre o impacto na oferta de serviços em hospitais periféricos, documentado pela ERS.",
+      "fonte_verificacao": "ERS — Relatório sobre Acesso a Urgências"
+    },
+    {
+      "id": 22,
+      "governo": "XIX",
+      "ano": 2012,
+      "texto": "Renovar os contratos de Parcerias Público-Privadas hospitalares com critérios de eficiência.",
+      "tema": "ppp",
+      "fonte_tipo": "Memorando de Entendimento (Troika)",
+      "fonte_doc": "Memorando da Troika — Medidas Estruturais, 2012",
+      "cumprido": "parcial",
+      "verificacao": "Os contratos PPP foram renovados em Loures, Cascais e Vila Franca. O Tribunal de Contas produziu auditorias comparativas que alimentaram o debate técnico sobre o modelo de gestão.",
+      "fonte_verificacao": "Tribunal de Contas — Auditoria PPPs Hospitalares 2014"
+    },
+    {
+      "id": "P36",
+      "governo": "XIX",
+      "ano": 2012,
+      "texto": "Implementar a receita médica electrónica no SNS.",
+      "tema": "SNS digital",
+      "fonte_tipo": "Programa de Governo XIX",
+      "fonte_doc": "Programa do XIX Governo Constitucional (2011)",
+      "cumprido": "sim",
+      "verificacao": "A receita sem papel foi implementada em 2016, após projecto-piloto iniciado em 2012. Portugal é referenciado internacionalmente como caso de sucesso em prescrição electrónica.",
+      "fonte_verificacao": "SPMS, Ministério da Saúde"
+    },
+    {
+      "id": 23,
+      "governo": "XIX",
+      "ano": 2013,
+      "texto": "Reduzir as listas de espera cirúrgicas através do programa SIGIC e dos vales-cirurgia.",
+      "tema": "listas_espera",
+      "fonte_tipo": "Despacho Ministerial",
+      "fonte_doc": "Despacho 10430/2011, Paulo Macedo",
+      "cumprido": "nao",
+      "verificacao": "Os dados SIGIC/ACSS registam, no período de ajustamento, uma evolução do tempo mediano de espera de 4,1 para 6,2 meses. O programa de vales-cirurgia foi um dos instrumentos utilizados para encaminhar utentes para o sector convencionado.",
+      "fonte_verificacao": "SIGIC/ACSS — Relatórios 2012-2014"
+    },
+    {
+      "id": "P37",
+      "governo": "XIX",
+      "ano": 2013,
+      "texto": "Criar o Centro de Controlo e Monitorização do SNS.",
+      "tema": "SNS digital",
+      "fonte_tipo": "Programa de Governo XIX",
+      "fonte_doc": "Programa do XIX Governo Constitucional",
+      "cumprido": "sim",
+      "verificacao": "O Centro de Controlo e Monitorização do SNS (CCM-SNS) foi criado em 2013, integrando a SPMS. Permitiu a monitorização em tempo real de indicadores de saúde.",
+      "fonte_verificacao": "SPMS, Diário da República"
+    },
+    {
+      "id": "P39",
+      "governo": "XIX",
+      "ano": 2013,
+      "texto": "Reorganizar a rede de urgências com níveis de especialização.",
+      "tema": "urgencias",
+      "fonte_tipo": "Programa de Governo XIX",
+      "fonte_doc": "Despacho 727/2007, actualizado em 2014",
+      "cumprido": "parcial",
+      "verificacao": "A rede de urgências foi reorganizada em níveis (Polivalente, Médico-Cirúrgica, Básica). A reconfiguração da oferta em urgências básicas foi objecto de debate público a nível local.",
+      "fonte_verificacao": "Ministério da Saúde"
+    },
+    {
+      "id": "P38",
+      "governo": "XIX",
+      "ano": 2014,
+      "texto": "Lançar o Plano Nacional de Saúde 2012-2016.",
+      "tema": "planeamento",
+      "fonte_tipo": "Programa de Governo XIX",
+      "fonte_doc": "Programa do XIX Governo Constitucional",
+      "cumprido": "sim",
+      "verificacao": "O Plano Nacional de Saúde 2012-2016 foi publicado pela DGS e implementado, estabelecendo metas de saúde pública a nível nacional.",
+      "fonte_verificacao": "Direcção-Geral da Saúde"
+    },
+    {
+      "id": 7,
+      "governo": "XXI",
+      "ano": 2015,
+      "texto": "Eliminar as taxas moderadoras nos cuidados de saúde primários.",
+      "tema": "taxas",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXI Governo Constitucional",
+      "cumprido": "sim",
+      "verificacao": "As taxas moderadoras nos centros de saúde foram eliminadas a partir de 1 de Janeiro de 2021, através do Decreto-Lei 131/2020.",
+      "fonte_verificacao": "Decreto-Lei 131/2020, Diário da República, 1.ª Série"
+    },
+    {
+      "id": 6,
+      "governo": "XXI",
+      "ano": 2016,
+      "texto": "Contratar mais 400 médicos de medicina geral e familiar para o SNS em 2016.",
+      "tema": "medicos_familia",
+      "fonte_tipo": "Orçamento do Estado",
+      "fonte_doc": "OE 2016 — Programa do Ministério da Saúde",
+      "cumprido": "parcial",
+      "verificacao": "Foram contratados cerca de 200 médicos de medicina geral e familiar no biénio 2016-2017. O número de utentes sem médico de família atribuído registou uma redução gradual face aos máximos de 2014.",
+      "fonte_verificacao": "ACSS — Relatório de Recursos Humanos do SNS 2017"
+    },
+    {
+      "id": 8,
+      "governo": "XXI",
+      "ano": 2016,
+      "texto": "Trazer para gestão pública o Hospital de Braga e outros hospitais em regime de PPP.",
+      "tema": "privatizacao",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXI Governo Constitucional",
+      "cumprido": "parcial",
+      "verificacao": "O Hospital de Braga passou para gestão pública em Setembro de 2019. Os contratos PPP de Loures, Vila Franca e Cascais mantiveram-se, seguindo os respectivos prazos contratuais.",
+      "fonte_verificacao": "Resolução do Conselho de Ministros 113/2019"
+    },
+    {
+      "id": 24,
+      "governo": "XXI",
+      "ano": 2016,
+      "texto": "Implementar a teleconsulta e a saúde digital no SNS para reduzir desigualdades geográficas.",
+      "tema": "saude_digital",
+      "fonte_tipo": "Estratégia Nacional para o Ecossistema de Informação de Saúde",
+      "fonte_doc": "ENESIS 2020, aprovada em 2016",
+      "cumprido": "parcial",
+      "verificacao": "A adopção da teleconsulta foi acelerada durante a pandemia COVID-19. Foram lançadas ferramentas como o SNS 24 e a app MySNS. Os relatórios da SPMS documentam a expansão e os desafios de cobertura em zonas rurais.",
+      "fonte_verificacao": "SPMS — Relatório de Saúde Digital 2023"
+    },
+    {
+      "id": 17,
+      "governo": "XXI",
+      "ano": 2017,
+      "texto": "Criar o Estatuto do SNS para reforçar o serviço público de saúde.",
+      "tema": "legislacao",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXI Governo",
+      "cumprido": "sim",
+      "verificacao": "A nova Lei de Bases da Saúde foi aprovada em 2019 (Lei 95/2019). O novo Estatuto do SNS viria a ser aprovado em 2024 (Decreto-Lei 52/2024).",
+      "fonte_verificacao": "Lei 95/2019, Diário da República"
+    },
+    {
+      "id": 25,
+      "governo": "XXI",
+      "ano": 2017,
+      "texto": "Contratar 8.400 profissionais de saúde para o SNS até 2019 (médicos, enfermeiros, técnicos).",
+      "tema": "recursos_humanos",
+      "fonte_tipo": "Orçamento do Estado",
+      "fonte_doc": "OE 2017 — Estratégia para Recursos Humanos em Saúde",
+      "cumprido": "parcial",
+      "verificacao": "Foram contratados cerca de 5.000 profissionais entre 2017 e 2019. Saídas por aposentação e mobilidade internacional atenuaram o efeito líquido das entradas.",
+      "fonte_verificacao": "ACSS — Recursos Humanos do Ministério da Saúde 2019"
+    },
+    {
+      "id": 33,
+      "governo": "XXI",
+      "ano": 2018,
+      "texto": "Renovar o Plano Nacional de Saúde Mental com ênfase na prevenção do suicídio e na intervenção comunitária.",
+      "tema": "saude_mental",
+      "fonte_tipo": "Resolução do Conselho de Ministros",
+      "fonte_doc": "Programa Nacional para a Saúde Mental 2017-2020",
+      "cumprido": "nao",
+      "verificacao": "A OCDE documenta que Portugal dedica aproximadamente 5% do orçamento da saúde à saúde mental, abaixo da média dos países da OCDE (cerca de 10%). O período pandémico amplificou a procura de cuidados especializados, segundo o relatório Health at a Glance 2023.",
+      "fonte_verificacao": "OCDE — Health at a Glance 2023, capítulo Mental Health"
+    },
+    {
+      "id": 9,
+      "governo": "XXII",
+      "ano": 2020,
+      "texto": "Construir o Hospital de Lisboa Oriental, o Hospital do Seixal e o Hospital de Sintra.",
+      "tema": "hospitais",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXII Governo, Grandes Opções 2020-2023",
+      "cumprido": "nao",
+      "verificacao": "Em Março de 2026, os três projectos encontravam-se em fases distintas de planeamento. O Hospital de Lisboa Oriental tem horizonte previsto para 2027-2028. Os projectos do Seixal e Sintra seguem em fase de programação, conforme o Parecer do Tribunal de Contas sobre a CGE 2023.",
+      "fonte_verificacao": "Tribunal de Contas — Parecer sobre a CGE 2023"
+    },
+    {
+      "id": 10,
+      "governo": "XXII",
+      "ano": 2020,
+      "texto": "Dar resposta eficaz à pandemia COVID-19 e garantir vacinação ampla da população.",
+      "tema": "covid",
+      "fonte_tipo": "Resolução do Conselho de Ministros",
+      "fonte_doc": "Plano de Contingência COVID-19, Março 2020",
+      "cumprido": "parcial",
+      "verificacao": "A campanha de vacinação atingiu mais de 90% de cobertura da população elegível, colocando Portugal entre os líderes mundiais. A mobilização do SNS teve impacto noutras áreas assistenciais, com reprogramação de cirurgias e rastreios documentada pela ACSS.",
+      "fonte_verificacao": "DGS — Relatório de Vacinação; ACSS — Listas de Espera Cirúrgicas"
+    },
+    {
+      "id": 18,
+      "governo": "XXII",
+      "ano": 2020,
+      "texto": "Reformar o INEM e melhorar a resposta de emergência pré-hospitalar.",
+      "tema": "emergencia",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXII Governo",
+      "cumprido": "nao",
+      "verificacao": "Os Relatórios de Actividade do INEM documentam desafios operacionais nas escalas de meios e na cobertura em zonas rurais. O debate sobre a reforma do INEM manteve-se activo ao longo do período.",
+      "fonte_verificacao": "Relatório de Actividade do INEM 2023-2024"
+    },
+    {
+      "id": 26,
+      "governo": "XXII",
+      "ano": 2020,
+      "texto": "Reformar o SNS 24 como porta de entrada digital do sistema de saúde.",
+      "tema": "saude_digital",
+      "fonte_tipo": "Despacho Ministerial",
+      "fonte_doc": "Despacho 4835/2020 — Centro de Contacto do SNS",
+      "cumprido": "sim",
+      "verificacao": "O SNS 24 passou a constituir um dos principais canais de acesso ao SNS durante a pandemia. O número de chamadas passou de cerca de 1 milhão em 2019 para mais de 6 milhões em 2021, segundo o relatório da SPMS.",
+      "fonte_verificacao": "SPMS — Relatório SNS 24, 2021"
+    },
+    {
+      "id": 11,
+      "governo": "XXII",
+      "ano": 2021,
+      "texto": "Atribuir médico de família a todos os utentes inscritos no SNS até ao final de 2023.",
+      "tema": "medicos_familia",
+      "fonte_tipo": "Declaração Ministerial",
+      "fonte_doc": "Marta Temido, Ministra da Saúde, audição parlamentar",
+      "cumprido": "nao",
+      "verificacao": "Segundo o Portal da Transparência do SNS, em 2023 cerca de 1,6 milhões de utentes mantinham-se sem médico de família atribuído.",
+      "fonte_verificacao": "Portal da Transparência do SNS — Dados de Cuidados Primários"
+    },
+    {
+      "id": 27,
+      "governo": "XXII",
+      "ano": 2021,
+      "texto": "Aprovar o novo Estatuto do SNS para reforçar a autonomia de gestão dos hospitais.",
+      "tema": "legislacao",
+      "fonte_tipo": "Decreto-Lei",
+      "fonte_doc": "Projecto de Estatuto do SNS (XXII Governo)",
+      "cumprido": "parcial",
+      "verificacao": "O novo Estatuto do SNS veio a ser aprovado em 2024, através do Decreto-Lei 52/2024, sob o XXIV Governo, com alterações face à proposta original.",
+      "fonte_verificacao": "Decreto-Lei 52/2024, Diário da República"
+    },
+    {
+      "id": 12,
+      "governo": "XXIII",
+      "ano": 2022,
+      "texto": "Plano de emergência para estabilizar urgências e maternidades.",
+      "tema": "urgencias",
+      "fonte_tipo": "Comunicado do Conselho de Ministros",
+      "fonte_doc": "Plano de Emergência e Transformação na Saúde",
+      "cumprido": "nao",
+      "verificacao": "Os dados SDM do SNS registam 438 dias de encerramento parcial de urgências no 1.º trimestre de 2024 (316 em obstetrícia, 113 em pediatria, 9 em adultos). O INEM registou 225 partos pré-hospitalares em 2024.",
+      "fonte_verificacao": "SNS/SDM — Dados de encerramentos Q1 2024; INEM — Relatório Anual"
+    },
+    {
+      "id": 28,
+      "governo": "XXIII",
+      "ano": 2022,
+      "texto": "Construir 50 novas Unidades de Saúde Familiar até 2026, com financiamento do PRR.",
+      "tema": "cuidados_primarios",
+      "fonte_tipo": "Plano de Recuperação e Resiliência",
+      "fonte_doc": "PRR — Componente Saúde (C12)",
+      "cumprido": "nao",
+      "verificacao": "Até Março de 2026, menos de 15 das novas USF financiadas pelo PRR estavam concluídas. A Comissão Nacional de Acompanhamento do PRR documenta os calendários de execução da componente Saúde.",
+      "fonte_verificacao": "Comissão Nacional de Acompanhamento do PRR — Relatório 2025"
+    },
+    {
+      "id": 13,
+      "governo": "XXIII",
+      "ano": 2023,
+      "texto": "Contratar 700 médicos de família com incentivos financeiros e regime de exclusividade.",
+      "tema": "medicos_familia",
+      "fonte_tipo": "Decreto-Lei",
+      "fonte_doc": "Decreto-Lei de incentivos à medicina geral e familiar",
+      "cumprido": "parcial",
+      "verificacao": "Os incentivos financeiros atraíram novas contratações. O preenchimento de colocações no interior do país manteve-se como desafio, conforme documentado pela ACSS.",
+      "fonte_verificacao": "ACSS — Recursos Humanos 2023"
+    },
+    {
+      "id": 29,
+      "governo": "XXIII",
+      "ano": 2023,
+      "texto": "Estabilizar as urgências de obstetrícia com plano de contingência para o Verão.",
+      "tema": "urgencias",
+      "fonte_tipo": "Despacho Ministerial",
+      "fonte_doc": "Plano de Contingência Urgências Verão 2023",
+      "cumprido": "nao",
+      "verificacao": "Os relatórios SDM e do INEM registam, no período considerado, 438 dias de encerramento parcial de urgências no Q1 2024 e 201 partos pré-hospitalares em 2023 (225 em 2024).",
+      "fonte_verificacao": "INEM — Relatório Anual; SNS/SDM — Dados Q1 2024"
+    },
+    {
+      "id": 34,
+      "governo": "XXIII",
+      "ano": 2023,
+      "texto": "Criar programa de saúde mental nas escolas e universidades com psicólogos dedicados.",
+      "tema": "saude_mental",
+      "fonte_tipo": "Despacho Conjunto Saúde/Educação",
+      "fonte_doc": "Programa Nacional de Promoção da Saúde Mental Juvenil",
+      "cumprido": "parcial",
+      "verificacao": "O rácio de psicólogos nas escolas registou uma melhoria (de cerca de 1:1500 para 1:1000 alunos), permanecendo aquém do recomendado pela Ordem dos Psicólogos (1:500).",
+      "fonte_verificacao": "Ordem dos Psicólogos — Relatório Anual 2024"
+    },
+    {
+      "id": 14,
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Apresentar um plano de emergência para o SNS nos primeiros 60 dias de Governo.",
+      "tema": "emergencia",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXIV Governo Constitucional (AD)",
+      "cumprido": "parcial",
+      "verificacao": "O plano foi apresentado em Junho de 2024, com medidas implementadas de forma faseada. A situação operacional das urgências continuou a ser monitorizada pelo SNS/SDM.",
+      "fonte_verificacao": "Portal do Governo — Comunicados 2024"
+    },
+    {
+      "id": 15,
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Implementar a dedicação plena dos médicos ao SNS com revisão salarial.",
+      "tema": "medicos_familia",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXIV Governo — Capítulo Saúde",
+      "cumprido": "parcial",
+      "verificacao": "A legislação foi aprovada em 2025, com adesão em regime voluntário. A Ordem dos Médicos tem acompanhado publicamente a evolução do regime.",
+      "fonte_verificacao": "Ordem dos Médicos — Parecer sobre Dedicação Plena"
+    },
+    {
+      "id": 16,
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Garantir que todos os portugueses têm médico de família atribuído até ao final de 2025.",
+      "tema": "medicos_familia",
+      "fonte_tipo": "Declaração Ministerial",
+      "fonte_doc": "Ana Paula Martins, Ministra da Saúde, conferência de imprensa",
+      "cumprido": "nao",
+      "verificacao": "Em Março de 2026, cerca de 1,5 milhões de utentes mantinham-se sem médico de família atribuído, segundo o Portal da Transparência do SNS.",
+      "fonte_verificacao": "Portal da Transparência do SNS, Março 2026"
+    },
+    {
+      "id": 30,
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Contratar 1.000 enfermeiros para o SNS nos primeiros 6 meses de Governo.",
+      "tema": "enfermeiros",
+      "fonte_tipo": "Programa de Governo",
+      "fonte_doc": "Programa do XXIV Governo — Medidas Imediatas Saúde",
+      "cumprido": "parcial",
+      "verificacao": "Foram contratados cerca de 600 enfermeiros em 2024. A Ordem dos Enfermeiros documenta a estimativa de reforço necessário para o SNS.",
+      "fonte_verificacao": "Ordem dos Enfermeiros — Relatório Anual 2024"
+    },
+    {
+      "id": 31,
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Reformar as urgências hospitalares com novo modelo de triagem e separação de circuitos.",
+      "tema": "urgencias",
+      "fonte_tipo": "Resolução do Conselho de Ministros",
+      "fonte_doc": "Plano de Emergência para a Saúde",
+      "cumprido": "parcial",
+      "verificacao": "O novo modelo foi implementado gradualmente em vários hospitais. O reforço do SNS 24 como porta de entrada foi avaliado no Relatório da ERS sobre urgências.",
+      "fonte_verificacao": "ERS — Relatório sobre Urgências 2025"
+    },
+    {
+      "id": "P40",
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Criar o Cartão de Acesso a Cuidados Continuados.",
+      "tema": "cuidados_continuados",
+      "fonte_tipo": "Programa de Governo XXIV",
+      "fonte_doc": "Programa do XXIV Governo Constitucional",
+      "cumprido": "sim",
+      "verificacao": "Um novo sistema de acesso a cuidados continuados integrados foi implementado em 2025, simplificando o processo de referenciação.",
+      "fonte_verificacao": "Ministério da Saúde, ACSS"
+    },
+    {
+      "id": "P41",
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Alargar o horário dos centros de saúde até às 20h.",
+      "tema": "cuidados_primarios",
+      "fonte_tipo": "Programa de Governo XXIV",
+      "fonte_doc": "Programa do XXIV Governo Constitucional",
+      "cumprido": "parcial",
+      "verificacao": "O alargamento de horários foi implementado em centros de saúde seleccionados, com cobertura nacional em progressão em 2026.",
+      "fonte_verificacao": "ACSS"
+    },
+    {
+      "id": 35,
+      "governo": "XXIV",
+      "ano": 2025,
+      "texto": "Reduzir as listas de espera acima do tempo máximo de resposta garantida (TMRG) até ao final de 2026.",
+      "tema": "listas_espera",
+      "fonte_tipo": "Comunicado do Conselho de Ministros",
+      "fonte_doc": "Plano de Recuperação de Listas de Espera Cirúrgicas",
+      "cumprido": "nao",
+      "verificacao": "Em Março de 2026, o SIGIC/ACSS registava mais de 300 mil utentes em espera para cirurgia, com tempo médio de cerca de 4,2 meses.",
+      "fonte_verificacao": "SIGIC/ACSS — Relatório Mensal Março 2026"
+    },
+    {
+      "id": 42,
+      "governo": "XVII",
+      "ano": 2006,
+      "texto": "Criar a Missão para os Cuidados de Saúde Primários para reorganizar a rede de centros de saúde.",
+      "cumprido": "sim",
+      "tema": "cuidados_primarios",
+      "verificacao": "A Missão para os CSP foi criada por Despacho Normativo 9/2006, publicando as Linhas de Acção Prioritária em Janeiro de 2006.",
+      "fonte_tipo": "Diário da República",
+      "fonte_doc": "Despacho Normativo 9/2006"
+    },
+    {
+      "id": 43,
+      "governo": "XVIII",
+      "ano": 2009,
+      "texto": "Continuar a expansão da Rede Nacional de Cuidados Continuados Integrados e consolidar a cobertura nacional.",
+      "cumprido": "parcial",
+      "tema": "cuidados_continuados",
+      "verificacao": "A RNCCI atingiu 10.190 camas em 2024 e 6.712 vagas de apoio domiciliário, mas ainda não cobre todas as necessidades identificadas.",
+      "fonte_tipo": "Programa do XVIII Governo",
+      "fonte_doc": "Saúde: Um Valor Para Todos"
+    },
+    {
+      "id": 44,
+      "governo": "XVIII",
+      "ano": 2010,
+      "texto": "Acelerar a conversão de USF modelo A para modelo B com incentivos financeiros aos profissionais.",
+      "cumprido": "parcial",
+      "tema": "cuidados_primarios",
+      "verificacao": "Em 2024, 73% dos utentes estão inscritos em USF, mas muitas permanecem em modelo A. A conversão tem sido gradual.",
+      "fonte_tipo": "Programa do XVIII Governo",
+      "fonte_doc": "Cap. Saúde"
+    },
+    {
+      "id": 45,
+      "governo": "XXI",
+      "ano": 2016,
+      "texto": "Garantir que todos os portugueses teriam médico de família atribuído até ao final de 2017.",
+      "cumprido": "nao",
+      "tema": "medicos_familia",
+      "verificacao": "Em 2016 havia 1,2 milhões sem médico de família. Em Julho de 2019 ainda eram 700 mil. Promessa verificada pelo Polígrafo como não cumprida.",
+      "fonte_tipo": "Declaração PM",
+      "fonte_doc": "Setembro 2016, verificado pelo Polígrafo"
+    },
+    {
+      "id": 46,
+      "governo": "XXI",
+      "ano": 2016,
+      "texto": "Construir o Hospital Central do Algarve, o Hospital do Seixal e o Hospital de Sintra.",
+      "cumprido": "nao",
+      "tema": "hospitais",
+      "verificacao": "Nenhuma das três construções foi iniciada durante o XXI Governo. Os projectos foram adiados para legislaturas seguintes.",
+      "fonte_tipo": "Programa do XXI Governo",
+      "fonte_doc": "Cap. Saúde"
+    },
+    {
+      "id": 47,
+      "governo": "XXII",
+      "ano": 2019,
+      "texto": "Aprovar a nova Lei de Bases da Saúde reafirmando a centralidade do SNS.",
+      "cumprido": "sim",
+      "tema": "legislacao",
+      "verificacao": "A Lei 95/2019 foi aprovada a 16 de Agosto de 2019, reafirmando o SNS como pilar central do sistema de saúde.",
+      "fonte_tipo": "Diário da República",
+      "fonte_doc": "Lei 95/2019"
+    },
+    {
+      "id": 48,
+      "governo": "XXII",
+      "ano": 2021,
+      "texto": "Vacinar 85% da população portuguesa contra a COVID-19.",
+      "cumprido": "sim",
+      "tema": "covid",
+      "verificacao": "Em Novembro de 2021, 85,9% da população estava vacinada. O orçamento do SNS ultrapassou 12 mil milhões de euros (+1,2 mil milhões para COVID).",
+      "fonte_tipo": "DGS",
+      "fonte_doc": "Relatório de Vacinação COVID-19"
+    },
+    {
+      "id": 49,
+      "governo": "XXIII",
+      "ano": 2023,
+      "texto": "Criar 39 Unidades Locais de Saúde integrando hospitais e centros de saúde sob gestão única.",
+      "cumprido": "sim",
+      "tema": "legislacao",
+      "verificacao": "O Decreto-Lei 102/2023 criou 31 novas ULS (total 39), cobrindo todo o país. Entrou em vigor a 1 de Janeiro de 2024.",
+      "fonte_tipo": "Diário da República",
+      "fonte_doc": "DL 102/2023"
+    },
+    {
+      "id": 50,
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Lançar o programa OncoStop para eliminar a lista de espera em cirurgias oncológicas.",
+      "cumprido": "parcial",
+      "tema": "listas_espera",
+      "verificacao": "Entre 18 de Maio e 21 de Junho de 2024, foram operados 7.465 doentes oncológicos, incluindo 2.143 que aguardavam além do tempo máximo. A lista tinha 9.374 doentes.",
+      "fonte_tipo": "Portal do Governo",
+      "fonte_doc": "Programa de Emergência da Saúde"
+    },
+    {
+      "id": 51,
+      "governo": "XXIV",
+      "ano": 2024,
+      "texto": "Abrir concurso para 20 USF modelo C geridas pelo sector privado e social em zonas carenciadas.",
+      "cumprido": "parcial",
+      "tema": "cuidados_primarios",
+      "verificacao": "Foram abertas 4 USF modelo C (2 em Lisboa, 1 em Leiria, 1 no Algarve), cobrindo cerca de 180 mil utentes.",
+      "fonte_tipo": "Portal do Governo",
+      "fonte_doc": "Plano de Emergência da Saúde"
+    }
+  ],
+  "dados_chave": {
+    "sem_medico_familia": {
+      "valor": 1644809,
+      "data": "Maio 2025",
+      "fonte": "ACSS",
+      "evolucao": [
+        {
+          "data": "Jan 2024",
+          "valor": 1647700
+        },
+        {
+          "data": "Dez 2024",
+          "valor": 1522545
+        },
+        {
+          "data": "Jan 2025",
+          "valor": 1564203
+        },
+        {
+          "data": "Mar 2025",
+          "valor": 1593802
+        },
+        {
+          "data": "Mai 2025",
+          "valor": 1644809
+        }
+      ]
+    },
+    "hospitais_sns": {
+      "valor": 43,
+      "fonte": "ACSS"
+    },
+    "centros_saude": {
+      "valor": 270,
+      "fonte": "ACSS"
+    },
+    "uls": {
+      "valor": 39,
+      "fonte": "DL 102/2023"
+    },
+    "profissionais_sns": {
+      "valor": 153597,
+      "data": "Fev 2025",
+      "fonte": "SNS"
+    },
+    "medicos_sns": {
+      "valor": 52000,
+      "fonte": "Ordem dos Médicos 2024"
+    },
+    "enfermeiros_sns": {
+      "valor": 32000,
+      "fonte": "Ordem dos Enfermeiros 2024"
+    },
+    "lista_espera_cirurgia": {
+      "valor": 264615,
+      "data": "Dez 2025",
+      "fonte": "SIGIC/ACSS"
+    },
+    "lista_espera_consulta": {
+      "valor": 1088656,
+      "data": "Dez 2025",
+      "fonte": "SNS"
+    },
+    "orcamento_sns_2024": {
+      "valor": "15.553M EUR",
+      "fonte": "CFP"
+    },
+    "camas_rncci": {
+      "valor": 10190,
+      "fonte": "ACSS 2024"
+    },
+    "populacao_inscrita": {
+      "valor": 10500000,
+      "fonte": "ACSS 2024"
+    }
+  },
+  "factos_chave": [
+    "Cerca de 1,5 milhões de utentes encontravam-se sem médico de família atribuído no início de 2025, segundo o Portal da Transparência do SNS.",
+    "A OCDE documenta ajustamentos orçamentais na saúde durante o Programa de Assistência Económica e Financeira (2011-2014), incluindo cerca de 600 milhões de euros em 2012.",
+    "O INEM registou 225 partos pré-hospitalares em 2024 (181 em 2022, 201 em 2023, 277 em 2025).",
+    "Os dados SDM/SNS registam 438 dias de encerramentos parciais de urgências no 1.º trimestre de 2024 (316 em obstetrícia, 113 em pediatria, 9 em adultos). No 1.º trimestre de 2025 o número reduziu-se para 227 dias.",
+    "O projecto do Hospital de Lisboa Oriental foi anunciado em 2020 e encontra-se em fase de planeamento, com horizonte previsto para 2027-2028.",
+    "Portugal atingiu mais de 90% de cobertura vacinal contra a COVID-19, uma das taxas mais altas do mundo.",
+    "O compromisso de um médico de família para todos os utentes é recorrente em programas de Governo desde 2005 e permanece como objectivo de política pública.",
+    "O site do Ministério da Saúde (www.min-saude.pt), online desde 1998, apenas é consultável hoje através do Arquivo.pt.",
+    "Oito maternidades foram encerradas permanentemente entre 2006 e 2013, no âmbito da reestruturação da rede obstétrica.",
+    "Segundo a OCDE, Portugal dedica cerca de 5% do orçamento da saúde à saúde mental, abaixo da média dos países da OCDE (cerca de 10%).",
+    "O programa de cheques-dentista, lançado em 2008, paga entre 35 e 75 euros por tratamento. O valor tem sido objecto de debate técnico face aos custos de referência.",
+    "Os Relatórios de Actividade do INEM documentam desafios operacionais na cobertura de ambulâncias, sobretudo em zonas rurais.",
+    "O Portal da Saúde (www.portaldasaude.pt) e o antigo site do Ministério da Saúde (www.min-saude.pt) foram centrais na comunicação do SNS durante mais de uma década. A sua história é hoje preservada no Arquivo.pt.",
+    "Cerca de 264 mil utentes encontravam-se em lista de espera para cirurgia no final de 2025, segundo a ACSS.",
+    "Cerca de 1,09 milhões de utentes aguardavam consulta hospitalar no final de 2025.",
+    "A Ordem dos Enfermeiros documenta cerca de 29 mil declarações para exercício no estrangeiro nos últimos 14 anos."
+  ],
+  "arquivo": {
+    "noticias": [
+      {
+        "titulo": "PortugalDiário - Toda a informação actualizada ao minuto: as últimas notícias do país e do mundo.",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20051118171853/http://www.portugaldiario.iol.pt/noticia.php?id=611362&div_id=291",
+        "dominio": "www.portugaldiario.iol.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Agorafobia e Ataques de Pânico",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050620210727/http://www.ex-aequo.web.pt/forum/index.php?topic=1576.30",
+        "dominio": "www.ex-aequo.web.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Ordem dos Médicos Dentistas",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050525233651/http://www.omd.pt/adm/menu/index.php?file=editor-menu&alt=1&cod=2007&utilizador=10&horizontal=0&codmenu=2000&multiplo=1",
+        "dominio": "www.omd.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Saúde SA: Debate da Saúde",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050622025218/http://saudesa.blogspot.com/2004/09/debate-da-sade.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Saúde SA: 04/01/2005 - 04/30/2005",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050622021149/http://saudesa.blogspot.com/2005_04_01_saudesa_archive.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "blogquisto: janeiro 2004 Arquivos",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050524164922/http://bloquisto.weblog.com.pt/arquivo/2004/01/",
+        "dominio": "bloquisto.weblog.com.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "O nosso segundo milagre: E finalmente...o relato do parto",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050616173638/http://onossosegundomilagre.blogs.sapo.pt/arquivo/522262.html",
+        "dominio": "onossosegundomilagre.blogs.sapo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "O nosso segundo milagre",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050309033721/http://onossosegundomilagre.blogs.sapo.pt/",
+        "dominio": "onossosegundomilagre.blogs.sapo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Convênio Médico São Cristóvão",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050420120954/http://www.asplanosdesaude.com/saocristovao/",
+        "dominio": "www.asplanosdesaude.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "A Arte de Pensar",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050624143400/http://www.pedromalheiros.blogs.sapo.pt/",
+        "dominio": "www.pedromalheiros.blogs.sapo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Bloco quer separar público e privado na Saúde - Bloco de Esquerda",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050218153052/http://www.bloco.org/index.php?option=com_content&task=view&id=512&Itemid=95",
+        "dominio": "www.bloco.org",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Médico Explica Medicina a Intelectuais",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050323025834/http://www.medicoexplicamedicinaaintelectuais.blogspot.com/2004_12_01_medicoexplicamedicinaaintelectuais_archive.html",
+        "dominio": "www.medicoexplicamedicinaaintelectuais.blogspot.com",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "DN Online: Nova lista de espera para cirurgia tem 193 mil doentes",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050529053807/http://dn.sapo.pt/2005/05/25/sociedade/nova_lista_espera_para_cirurgia_193_.html",
+        "dominio": "dn.sapo.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Saúde SA: Listas de Espera",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050622021141/http://saudesa.blogspot.com/2005/05/listas-de-espera.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Jornal de Notícias - Norte recebe vales-cirurgia",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050202221753/http://jn.sapo.pt/2005/02/02/sociedade/norte_recebe_valescirurgia.html",
+        "dominio": "jn.sapo.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "VALE-CIRURGIA SUSCITA FORTES DÚVIDAS",
+        "ano": 2005,
+        "url": "https://arquivo.pt/wayback/20050724114054/http://www.cgtp.pt/imprensa/comunica/2004/ci004-48.html",
+        "dominio": "www.cgtp.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Em Directo : Prós e Contras: RTP e Governo em estilo Chávez",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070513094712/http://sol.sapo.pt/blogs/jal/archive/2007/02/27/Pr_F300_s-e-Contras_3A00_-RTP-e-Governo-em-estilo-Ch_E100_vez.aspx",
+        "dominio": "sol.sapo.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Microsoft Word - 000_PROGRAMA DE LA ESPECIALIDAD18-11-02_definitivo.doc",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070326213437/http://www.apmcg.pt/document/71479/473299.pdf",
+        "dominio": "www.apmcg.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Agencia Financeira",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070121134312/http://www.agenciafinanceira.iol.pt/noticia.php?id=757597&div_id=1728",
+        "dominio": "www.agenciafinanceira.iol.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Saúde na Internet - Rede MNI",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20071231104915/http://www.mni.pt/temas/index.php?letra=F&MNI=23e6a6fe6cbfca5c44d3af45fcac9149",
+        "dominio": "www.mni.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Portal da Saúde - Entrevista: Secretária de Estado Adjunta e da Saúde",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070821075535/http://www.min-saude.pt/portal/conteudos/a+saude+em+portugal/ministerio/comunicacao/artigos+de+imprensa/seas+tecnohospital.htm",
+        "dominio": "www.min-saude.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Sala de Imprensa",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20071103083056/http://www.hsm.min-saude.pt/default.aspx?tabid=1598&MenuActive=NewsLetter",
+        "dominio": "www.hsm.min-saude.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Ministério da Saúde poderá gastar mais 0,9% em 2008 | Portugalmail Notícias",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20071213045247/http://noticias.portugalmail.pt/artigo/20071012/ministerio-da-saude-podera-gastar-mais-0-9-em-2008",
+        "dominio": "noticias.portugalmail.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Governo estuda novo imposto - DiarioEconomico.com",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070126071130/http://diarioeconomico.sapo.pt/edicion/diarioeconomico/edicion_impresa/economia/pt/desarrollo/727126.html",
+        "dominio": "diarioeconomico.sapo.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "SIC Online - Bebé nasce em ambulância a caminho de Coimbra",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070329040907/http://sic.sapo.pt/online/noticias/vida/20070321-Beba+nasce+em+ambulancia+a+caminho+de+Coimbra.htm",
+        "dominio": "sic.sapo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "14 de Novembro de 2007 - novatemporadafloribella",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20071208054721/http://novatemporadafloribella.blogs.sapo.pt/2007/11/14/",
+        "dominio": "novatemporadafloribella.blogs.sapo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Comentar - novatemporadafloribella",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20071208073057/http://novatemporadafloribella.blogs.sapo.pt/4295.html?mode=reply",
+        "dominio": "novatemporadafloribella.blogs.sapo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "O nosso segundo milagre: março 2005 Archives",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070607095856/http://onossosegundomilagre.blogs.sapo.pt/arquivo/2005_03.html",
+        "dominio": "onossosegundomilagre.blogs.sapo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Correio da Manhã",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070217033736/http://www.correiodamanha.pt/noticia.asp?id=231091&idselect=10&idCanal=10&p=200",
+        "dominio": "www.correiodamanha.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Expresso: Doentes discriminados no SNS",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20071021010232/http://expresso.clix.pt/gen.pl?p=stories&op=view&fokey=ex.stories/144831",
+        "dominio": "expresso.clix.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Portal da Saúde - Lista de Inscritos em Cirurgia",
+        "ano": 2007,
+        "url": "https://arquivo.pt/wayback/20070812002831/http://www.portaldasaude.pt/portal/conteudos/informacoes+uteis/lista+de+inscritos+para+cirurgia/default.htm",
+        "dominio": "www.portaldasaude.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Direito à Saúde! - \"Pinhanços dixit...\"",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091106182941/http://pacodearcos.blogs.sapo.pt/151251.html",
+        "dominio": "pacodearcos.blogs.sapo.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Small Brother: Moralidade...",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091224125257/http://small-brother.blogspot.com/2007/11/moralidade.html?showComment=1196335680000",
+        "dominio": "small-brother.blogspot.com",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "2009022139 | 16.000 pacientes se han beneficiado del trasplante de hígado | Aktuell: | NEW",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20090915123339/http://www.medical-point.eu/es/2009022139/NEW/Aktuell/16.000-pacientes-se-han-beneficiado-del-trasplante-de-higado.html",
+        "dominio": "www.medical-point.eu",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Serviço Nacional de Saúde",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091224162609/http://www.audiomania.com.pt/index.php?topic=1425.0;all",
+        "dominio": "www.audiomania.com.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Médico Explica Medicina a Intelectuais",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091222152820/http://medicoexplicamedicinaaintelectuais.blogspot.com/",
+        "dominio": "medicoexplicamedicinaaintelectuais.blogspot.com",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Médico Explica Medicina a Intelectuais: Utentes do SNS prejudicados",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091222221226/http://medicoexplicamedicinaaintelectuais.blogspot.com/2008/04/uterntes-do-sns-prejudicados.html",
+        "dominio": "medicoexplicamedicinaaintelectuais.blogspot.com",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "sociedade-civil.blogspot.com: Vai haver falta de médicos?",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091005183559/http://sociedade-civil.blogspot.com/2008/06/vai-haver-falta-de-mdicos.html",
+        "dominio": "sociedade-civil.blogspot.com",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "RCM Pharma - Marketing Farmacêutico - Médico de família",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091222122636/http://www.rcmpharma.com/portal/actualidade/medico-de-familia.html",
+        "dominio": "www.rcmpharma.com",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Comments on: Corporativismo médico",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20090627125156/http://aguiarconraria.blogsome.com/2007/10/10/corporativismo-medico/feed/",
+        "dominio": "aguiarconraria.blogsome.com",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "COGITARE EM ENFERMAGEM: Hospital de Gaia Jamé",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091007231634/http://enfermagemsu.blogspot.com/2008/02/hospital-de-gaia-jam.html",
+        "dominio": "enfermagemsu.blogspot.com",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "COGITARE EM ENFERMAGEM: Hospital Aveiro- morte Idosa- Ataque à triagem de Manchester",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091007233130/http://enfermagemsu.blogspot.com/2008/01/hospital-aveiro-morte-idosa-ataque.html",
+        "dominio": "enfermagemsu.blogspot.com",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Portal da Saúde A Saúde em Portugal",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091220184529/http://www.min-saude.pt/portal/rss/?latestchannelguid={44851cdc-7cf6-4ce1-8474-5888c339e986}",
+        "dominio": "www.min-saude.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Ministro da Saúde promete acção contra Tabaqueira | Portugalmail Notícias",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091219171753/http://noticias.portugalmail.pt/artigo/20041123/ministro-da-saude-promete-accao-contra-tabaqueira",
+        "dominio": "noticias.portugalmail.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Saúde SA: Sustentabilidade do SNS",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091001105654/http://saudesa.blogspot.com/2006/11/sustentabilidade-do-sns.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "saude « Uma espécie de blog…",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20090721055149/http://nunoconde8.wordpress.com/tag/saude/",
+        "dominio": "nunoconde8.wordpress.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "4R - Quarta República: A (in)sustentabilidade financeira do SNS",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091224100116/http://quartarepublica.blogspot.com/2007/01/insustentabilidade-financeira-do-sns.html",
+        "dominio": "quartarepublica.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "bombeirosparasempre: Ambulancia Sofre Acidente",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091013215553/http://bombeirosparasempre.blogspot.com/2009/07/ambulancia-sofre-acidente.html",
+        "dominio": "bombeirosparasempre.blogspot.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Paz, Felicidade e Amor: Parto no hospital!!! :-0",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091218213151/http://mariaafonsosancho.blogspot.com/2009/12/parto-no-hospital-0.html",
+        "dominio": "mariaafonsosancho.blogspot.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "bombeirosparasempre: Mais Um Parto Fora do Hospital",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091013202103/http://bombeirosparasempre.blogspot.com/2008/09/mais-um-parto-fora-do-hospital.html",
+        "dominio": "bombeirosparasempre.blogspot.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Mais um parto na ambulância",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20090623081329/http://www.bombeirosdeportugal.pt/index.php/seccoes/breves/61-nascimentos/188-mais-um-parto-na-ambulancia",
+        "dominio": "www.bombeirosdeportugal.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Todos defendem o SNS, mas... - Vila Forte",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091017202521/http://vilaforte.blogs.sapo.pt/271596.html",
+        "dominio": "vilaforte.blogs.sapo.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Doutor Enfermeiro: Porque havemos nós, Enfermeiros, de aceitar condições inferiores aos outros?",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091014075310/http://doutorenfermeiro.blogspot.com/2009/09/porque-havemos-nos-enfermeiros-de.html",
+        "dominio": "doutorenfermeiro.blogspot.com",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Resenhas de Imprensa | Ordem dos Enfermeiros",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091217224511/http://ordemenfermeiros.pt/index.php?page=253&pag=4",
+        "dominio": "ordemenfermeiros.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "*** De Seia, da Serra da Estrela e do Portogallo à Siciliana ***: jornalismo puro e duro Arquivo",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091217185923/http://joaotilly.weblog.com.pt/arquivo/cat_jornalismo_puro_e_duro.html",
+        "dominio": "joaotilly.weblog.com.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "sorumbático: Espera",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091218231559/http://sorumbatico.blogspot.com/2009/04/espera.html",
+        "dominio": "sorumbatico.blogspot.com",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Nau Catrineta: SNS",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091002160134/http://lavemanaucatrineta.blogspot.com/2008/07/mensagem-sexa.html",
+        "dominio": "lavemanaucatrineta.blogspot.com",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Listas de espera para cirurgia on-line",
+        "ano": 2009,
+        "url": "https://arquivo.pt/wayback/20091217180709/http://consulta2009.simplex.gov.pt/index.php?option=com_content&view=article&id=149:listas-de-espera-para-cirurgia-on-line&catid=13:a-minha-saude&Itemid=9",
+        "dominio": "consulta2009.simplex.gov.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Sócrates diz que portugueses devem ter orgulho no SNS - Sol",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110222043620/http://sol.sapo.pt/inicio/Politica/Interior.aspx?content_id=10987",
+        "dominio": "sol.sapo.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Álvaro Herdade acredita que até 2012 a FAAD vai ter serviço de urgência a funcionar",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110705153654/http://www.correiodabeiraserra.com/index.php?option=com_content&view=article&id=4034:alvaro-herdade-acredita-que-ate-2012-a-faad-vai-ter-servico-de-urgencia-a-funcionar&catid=41&Itemid=95",
+        "dominio": "www.correiodabeiraserra.com",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Direito à Saúde! - \"Pinhanços dixit...\"",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110312203523/http://pacodearcos.blogs.sapo.pt/151251.html",
+        "dominio": "pacodearcos.blogs.sapo.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Meio milhão sem médico de família - Expresso.pt",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110126204629/http://aeiou.expresso.pt/meio-milhao-sem-medico-de-familia=f628157",
+        "dominio": "aeiou.expresso.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Rostos On-line - No concelho de Grandola existem actualmente cerca de 6.000 pessoas sem medico de fa",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110127161743/http://www.rostos.pt/inicio2.asp?cronica=94880&mostra=2&seccao=moldura&titulo=No-concelho-de-Grandola-existem-actualme",
+        "dominio": "www.rostos.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Falta mÃ©dico de famÃ­lia a 1,5 milhÃµes de portugueses - SaÃºde - Correio da ManhÃ£",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110821002530/http://www.cmjornal.xl.pt/detalhe/noticias/nacional/saude/falta-medico-de-familia-a-15-milhoes-de-portugueses",
+        "dominio": "www.cmjornal.xl.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "A RODA: A Urgência Pediátrica Setúbal",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110121105524/http://mfm-a-roda.blogspot.com/2010/06/urgencia-pediatrica-setubal.html",
+        "dominio": "mfm-a-roda.blogspot.com",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "CDS quer saber se Governo admite encerrar urgência pediátrica do hospital de Setúbal",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110709203848/http://cds.pt/index.php?option=com_content&view=article&id=662:cds-quer-saber-se-governo-admite-encerrar-urgencia-pediatrica-do-hospital-de-setubal&catid=59:parlamento&Itemid=107",
+        "dominio": "cds.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Saúde SA: Sustentabilidade do SNS",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110522195158/http://saudesa.blogspot.com/2006/11/sustentabilidade-do-sns.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Saúde SA: Defender o SNS",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110523014630/http://saudesa.blogspot.com/2006/10/defender-o-sns.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Sapo Saúde Moçambique",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110523095509/http://saude.sapo.mz/actualidade/",
+        "dominio": "saude.sapo.mz",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "CGTP promete oposição a «duplo financiamento» do SNS > Política > TVI24",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20111225000106/http://www.tvi24.iol.pt/politica/cgtp-saude-sns-tvi24/1311168-4072.html",
+        "dominio": "www.tvi24.iol.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "CGTP promete oposição firme ao \"duplo financiamento\" do SNS - JN",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20111224183000/http://www.jn.pt/PaginaInicial/Sociedade/Saude/Interior.aspx?content_id=2202431",
+        "dominio": "www.jn.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "-parto-em-ambulancia - Pesquisa - Correio da ManhÃ£",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110305233018/http://www.cmjornal.xl.pt/pesquisa/%20parto%20em%20ambul%C3%A2ncia",
+        "dominio": "www.cmjornal.xl.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "ambulancia - Pesquisa - Correio da ManhÃ£",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110621222422/http://www.cmjornal.xl.pt/pesquisa/AMBUL%C3%82NCIA",
+        "dominio": "www.cmjornal.xl.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Paz, Felicidade e Amor: Parto no hospital!!! :-0",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110121090352/http://mariaafonsosancho.blogspot.com/2009/12/parto-no-hospital-0.html",
+        "dominio": "mariaafonsosancho.blogspot.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Hospital | Ai nanas!",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110122170640/http://ainanas.com/tag/hospital/",
+        "dominio": "ainanas.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "-medicos - Pesquisa - Correio da ManhÃ£",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110421201335/http://www.cmjornal.xl.pt/pesquisa/%20m%C3%A9dicos",
+        "dominio": "www.cmjornal.xl.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Portugueses chamados a lutar pelo SNS > Sociedade > TVI24",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110916152249/http://www.tvi24.iol.pt/sociedade/sns-medicos-enfermeiros-saude-crise-tvi24/1280428-4071.html",
+        "dominio": "www.tvi24.iol.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Destak.pt | Saúde: Médicos e enfermeiros apelam a envolvimento dos cidadãos na defesa do SNS",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110920000705/http://www.destak.pt/artigo/106148-medicos-e-enfermeiros-apelam-a-envolvimento-dos-cidadaos-na-defesa-do-sns",
+        "dominio": "www.destak.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Lista de Espera para Cirurgia acessível pela Internet",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110622021921/http://www.rcc.gov.pt/Noticias/2009dez/Paginas/Lista-de-Espera-para-Cirurgia-acess%C3%ADvel-pela-Internet---.aspx",
+        "dominio": "www.rcc.gov.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "sorumbático: Espera",
+        "ano": 2011,
+        "url": "https://arquivo.pt/wayback/20110520182720/http://sorumbatico.blogspot.com/2009/04/espera.html",
+        "dominio": "sorumbatico.blogspot.com",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Urgência do Barreiro fecha portas",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131111233510/http://www.ussetubal.pt/index.php/comunicacao/novo/61-urgencia-do-barreiro-fecha-portas",
+        "dominio": "www.ussetubal.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Seixal Hospital terá serviço de urgência básica ministra da Saúde - Expresso.pt",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131117143508/http://expresso.sapo.pt/seixal-hospital-tera-servico-de-urgencia-basica-ministra-da-saude=f520778",
+        "dominio": "expresso.sapo.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "A Codificacao Clinica em Espanha",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131111234028/http://portalcodgdh.min-saude.pt/images/b/bf/A_Codificacao_Clinica_em_Espanha.pdf",
+        "dominio": "portalcodgdh.min-saude.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "CDU LUMIAR --> A CDU na Assembleia de Freguesia do Lumiar - Lisboa",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131127192935/http://cdulumiar.blogs.sapo.pt/tag/servi%C3%A7o+nacional+de+sa%C3%BAde",
+        "dominio": "cdulumiar.blogs.sapo.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Kant_O_XimPi: SNS",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131113122804/http://kantoximpi.blogspot.pt/search/label/SNS",
+        "dominio": "kantoximpi.blogspot.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Médico De Familia | PCP Paredes",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131106110405/http://paredes.pcp.pt/tag/medico-de-familia/",
+        "dominio": "paredes.pcp.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Desfazer Nós, Criar Laços...: Medico",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131113021944/http://desfazer-nos-criar-lacos.blogspot.pt/search/label/Medico",
+        "dominio": "desfazer-nos-criar-lacos.blogspot.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Folha de Portugal | Sempre ao seu lado",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131109062205/http://folhadeportugal.pt/15-milhoes-sem-medico-de-familia/",
+        "dominio": "folhadeportugal.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "sociedade-civil.blogspot.com: Vai haver falta de médicos?",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131109152546/http://sociedade-civil.blogspot.pt/2008/06/vai-haver-falta-de-mdicos.html",
+        "dominio": "sociedade-civil.blogspot.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "A RODA: A Urgência Pediátrica Setúbal",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131112025047/http://mfm-a-roda.blogspot.pt/2010/06/urgencia-pediatrica-setubal.html",
+        "dominio": "mfm-a-roda.blogspot.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "CDU pede explicações sobre fecho de urgência pediátrica em Valongo | Porto24",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131111220146/http://porto24.pt/porto/31082013/cdu-pede-explicacoes-sobre-encerramento-de-urgencia-pediatrica-em-valongo/",
+        "dominio": "porto24.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "CDS quer saber se Governo admite encerrar urgência pediátrica do hospital de Setúbal",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131113030347/http://cds.pt/index.php?option=com_content&view=article&id=662:cds-quer-saber-se-governo-admite-encerrar-urgencia-pediatrica-do-hospital-de-setubal&catid=59:parlamento&Itemid=107",
+        "dominio": "cds.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Dezembro 2003 - Reportagens de Crítica, Investigação e Opinião",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131209123109/http://reporter007.blogs.sapo.pt/2003/12/",
+        "dominio": "reporter007.blogs.sapo.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Desfazer Nós, Criar Laços...: SNS",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131114180436/http://desfazer-nos-criar-lacos.blogspot.pt/search/label/SNS",
+        "dominio": "desfazer-nos-criar-lacos.blogspot.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Investigação científica na saúde deve privilegiar colaboração entre universidades e hospitais - SAPO",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131112034440/http://saude.sapo.pt/noticias/saude-medicina/investigacao-cientifica-na-saude-deve-priviligiar-colaboracao-entre-universidades-e-hospitais.html",
+        "dominio": "saude.sapo.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Novas regras para remédios inovadores visam maior equidade - SAPO Saúde",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131109152350/http://saude.sapo.pt/noticias/saude-medicina/novas-regras-para-remedios-inovadores-visam-maior-equidade.html",
+        "dominio": "saude.sapo.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "myUSF | Notícias - Governo promete melhorar oferta de serviços de saúde",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131118093559/http://condesdalousa.myusf.com.pt/noticias/governo-promete-melhorar-oferta-de-servicos-de-saude.aspx",
+        "dominio": "condesdalousa.myusf.com.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Parto na ambulância - Sociedade - Correio da Manhã",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20130902194817/http://www.cmjornal.xl.pt/detalhe/noticias/nacional/sociedade/parto-na-ambulancia--021838580",
+        "dominio": "www.cmjornal.xl.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Bombeiros de Belmonte fazem parto em ambulância.",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131105202706/http://www.radiocaria.com/index.php/noticias/sociedade/1011-bombeiros-de-belmonte-fazem-parto-em-ambulancia",
+        "dominio": "www.radiocaria.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "ATUPELE HOSPITAL",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131106085820/http://www.africadirecto.org/uploads/File/ATUPELEHOSPITA.pdf",
+        "dominio": "www.africadirecto.org",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "BioNascimento :: Verificar tópico - o parto",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131108002333/http://www.bionascimento.com/forum/viewtopic.php?p=1866",
+        "dominio": "www.bionascimento.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "portugal contemporâneo: como prejudicar o SNS",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131113103143/http://portugalcontemporaneo.blogspot.pt/2012/08/como-prejudicar-o-sns.html",
+        "dominio": "portugalcontemporaneo.blogspot.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "O Sindicalista: AGRAVOU-SE A SUSTENTABILIDADE SNS",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131109093824/http://sersindicalista.blogspot.pt/2013/08/agravou-se-sustentabilidade-sns.html",
+        "dominio": "sersindicalista.blogspot.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "O Sindicalista: O VAI-VEM dos ENFERMEIROS",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131109094331/http://sersindicalista.blogspot.pt/2013/08/o-vai-vem-dos-enfermeiros.html",
+        "dominio": "sersindicalista.blogspot.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "POBREZA NA IMPRENSA: Faltam camas, médicos e enfermeiros na Rede de Cuidados Continuados",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131115081338/http://eapnimprensa.blogspot.pt/2013/03/faltam-camas-medicos-e-enfermeiros-na.html",
+        "dominio": "eapnimprensa.blogspot.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Pai do SNS em lista de espera - Saúde - Correio da Manhã",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20130917190833/http://www.cmjornal.xl.pt/detalhe/noticias/nacional/saude/pai-do-sns-em-lista-de-espera",
+        "dominio": "www.cmjornal.xl.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Consultório de Cirurgia Plástica",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131227085319/http://consultoriocirurgiaplastica.blogs.sapo.pt/data/rss?tag=sns%20listas%20de%20espera",
+        "dominio": "consultoriocirurgiaplastica.blogs.sapo.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Os Carvalhos do Paraíso: SNS",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131112145441/http://oscarvalhosdoparaiso.blogspot.pt/search/label/SNS?updated-max/0752013-09-18T05:02:00-07:00/46max-results/07520/46start/0751/46by-date/75false",
+        "dominio": "oscarvalhosdoparaiso.blogspot.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Portal da Saúde Lista de Inscritos para Cirurgia",
+        "ano": 2013,
+        "url": "https://arquivo.pt/wayback/20131123161037/http://www.portaldasaude.pt/portal/rss/?channelguid={0B9F05E6-90CC-4DB1-BFDE-3F4037807554}",
+        "dominio": "www.portaldasaude.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Urgência do Barreiro fecha portas",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150424131826/http://www.ussetubal.pt/index.php/comunicacao/novo/61-urgencia-do-barreiro-fecha-portas",
+        "dominio": "www.ussetubal.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Transplante Pulmonar e Transplante Renal: SNS España",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150422051929/http://transplantes-pulmonares.blogspot.pt/search/label/SNS%20Espa%C3%B1a",
+        "dominio": "transplantes-pulmonares.blogspot.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Vamos por aqui: Saúde e Hospital",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151129205631/http://vamosporaqui.blogspot.pt/search/label/Sa%C3%BAde%20e%20Hospital?m/0750",
+        "dominio": "vamosporaqui.blogspot.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Kant_O_XimPi: SNS",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150520081859/http://kantoximpi.blogspot.pt/search/label/SNS",
+        "dominio": "kantoximpi.blogspot.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Médico De Familia | PCP Paredes",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150419201813/http://paredes.pcp.pt/tag/medico-de-familia/",
+        "dominio": "paredes.pcp.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Centro Hospitalar Barreiro Montijo - Urgencia Pediatrica do Hospital do Barreiro sem medicos pa - Ro",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150905175837/http://www.rostos.pt/inicio2.asp?cronica=9002558&mostra=2&seccao=moldura&titulo=Centro-Hospitalar-Barreiro-Montijo-",
+        "dominio": "www.rostos.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "A RODA: A Urgência Pediátrica Setúbal",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150418065454/http://mfm-a-roda.blogspot.pt/2010/06/urgencia-pediatrica-setubal.html",
+        "dominio": "mfm-a-roda.blogspot.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Urgência Pediátrica do Hospital do Barreiro em risco > TVI24",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151011130359/http://www.tvi24.iol.pt/sociedade/29-08-2015/urgencia-pediatrica-do-hospital-do-barreiro-em-risco",
+        "dominio": "www.tvi24.iol.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Ministro da Saúde promete defender SNS sem crispação",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151210213354/http://www.jornalacores9.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.jornalacores9.net%2Fnacional%2Fministro-da-saude-promete-defender-sns-sem-crispacao%2F&format=xml",
+        "dominio": "www.jornalacores9.net",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Ministro da Saúde promete defender SNS sem crispação - País - RTP Notícias",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151128180703/http://www.rtp.pt/noticias/pais/ministro-da-saude-promete-defender-sns-sem-crispacao_n877653",
+        "dominio": "www.rtp.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Destak.pt | Actualidade: Ministro da Saúde promete defender SNS sem crispação",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151128184748/http://www.destak.pt/artigo/248968-ministro-da-saude-promete-defender-sns-sem-crispacao",
+        "dominio": "www.destak.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "parto na ambulancia | O Ribatejo",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150219061044/http://www.oribatejo.pt/tag/parto-na-ambulancia/",
+        "dominio": "www.oribatejo.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "AMBULANCIA Mais Sobre - CorreiodaManhã",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151205170054/http://staggingtestes.online.xl.pt/maissobre/ambulancia",
+        "dominio": "staggingtestes.online.xl.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "DISPOSITIVOS MEDICOS Mais Sobre - CorreiodaManhã",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150927005352/http://www.cmjornal.xl.pt/maissobre/dispositivos-medicos",
+        "dominio": "www.cmjornal.xl.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "portugal contemporâneo: como prejudicar o SNS",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150420102428/http://portugalcontemporaneo.blogspot.pt/2012/08/como-prejudicar-o-sns.html",
+        "dominio": "portugalcontemporaneo.blogspot.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "O Sindicalista: AGRAVOU-SE A SUSTENTABILIDADE SNS",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150514064836/http://sersindicalista.blogspot.pt/2013/08/agravou-se-sustentabilidade-sns.html",
+        "dominio": "sersindicalista.blogspot.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Carta ao SNS - Café, Canela & Chocolate",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151118005856/http://cafecanelachocolate.sapo.pt/carta-ao-sns-249573?thread=711653",
+        "dominio": "cafecanelachocolate.sapo.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Listas de espera para cirurgia disponíveis na Internet",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150418034129/http://exameinformatica.sapo.pt/noticias/internet/2009-12-23-listas-de-espera-para-cirurgia-disponiveis-na-internet",
+        "dominio": "exameinformatica.sapo.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Urgência do Barreiro fecha portas | SEP",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170818044131/http://sep.org.pt/artigo/sem-categoria/urgencia-do-barreiro-fecha-portas/",
+        "dominio": "sep.org.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Transplante Pulmonar e Transplante Renal: SNS España",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170221191220/http://transplantes-pulmonares.blogspot.pt/search/label/SNS%20Espa%C3%B1a",
+        "dominio": "transplantes-pulmonares.blogspot.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "A URGENCIA DAS POLITICAS DE SAUDE - Por Ricardo Rosado - Barreiro - Rostos On-line",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170401175803/http://www.rostos.pt/inicio2.asp?cronica=11000378&mostra=2&seccao=opiniao&titulo=A-URGENCIA-DAS-POLITICAS-DE-SAUDE-",
+        "dominio": "www.rostos.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Kant_O_XimPi: SNS",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171224033603/https://kantoximpi.blogspot.pt/search/label/SNS",
+        "dominio": "kantoximpi.blogspot.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Médico De Familia | PCP Paredes",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170227091344/http://paredes.pcp.pt/tag/medico-de-familia/",
+        "dominio": "paredes.pcp.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Desfazer Nós, Criar Laços...: Medico",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171209123139/http://desfazer-nos-criar-lacos.blogspot.pt/search/label/Medico",
+        "dominio": "desfazer-nos-criar-lacos.blogspot.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Continua a assistir se a sobrelotacao dos Servicos de Urgencia Geral e Urgencia Pediatrica do Hospit",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170307192937/http://www.rostos.pt/inicio2.asp?cronica=2001326&mostra=2",
+        "dominio": "www.rostos.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Urgência Pediátrica do Hospital Torres Vedras em vias de encerrar",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170304010922/https://torresvedrasweb.pt/urgencia-pediatrica-do-hospital-torres-vedras-em-vias-de-encerrar/",
+        "dominio": "torresvedrasweb.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "PTM:: : hospital",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171211195812/http://portimaolive.blogspot.pt/search/label/hospital",
+        "dominio": "portimaolive.blogspot.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "PTM:: : ministro da saude",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171211195836/http://portimaolive.blogspot.pt/search/label/ministro%20da%20saude",
+        "dominio": "portimaolive.blogspot.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Jornal Enfermeiro - Ministro da Saúde promete defender SNS \"sem crispação\"",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171221140917/http://www.jornalenfermeiro.pt/actualidade/item/803-ministro-da-saude-promete-defender-sns-sem-crispacao.html",
+        "dominio": "www.jornalenfermeiro.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Ministro da Saúde promete “avaliação rigorosa” sobre funcionamento do SNS no Algarve – Algarve Vivo",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170812184204/http://algarvevivo.pt/ministro-da-saude-promete-avaliacao-rigorosa-sobre-funcionamento-do-sns-no-algarve/",
+        "dominio": "algarvevivo.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Saúde Oral: 370) Ministro promete dentista gratuito para crianças",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170221050241/http://saudeoral.blogspot.pt/2009/07/370-ministro-promete-dentista-gratuito.html",
+        "dominio": "saudeoral.blogspot.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Expresso | Ministro da Saúde",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170214194639/http://apps.expresso.pt/palavra/entity/job/Ministro-da-Saude",
+        "dominio": "apps.expresso.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Parto em Ambulância",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171219174428/http://distritonline.pt/sociedade/351-parto-em-ambulancia",
+        "dominio": "distritonline.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Vida de Mulher aos 40: ambulancia",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171217123214/https://vidademulheraos40.blogspot.pt/search/label/ambulancia",
+        "dominio": "vidademulheraos40.blogspot.pt",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Enfermeiros e médicos – Observador",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170927192429/http://observador.pt/opiniao/enfermeiros-e-medicos/",
+        "dominio": "observador.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Carta ao SNS - Café, Canela & Chocolate",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170223131200/http://cafecanelachocolate.sapo.pt/carta-ao-sns-249573",
+        "dominio": "cafecanelachocolate.sapo.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Doutor Enfermeiro: Nudismo no SNS!",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171209085540/http://doutorenfermeiro.blogspot.pt/2016/06/nudismo-no-sns.html",
+        "dominio": "doutorenfermeiro.blogspot.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Mapa Portal SNS – SNS",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170807145632/https://www.sns.gov.pt/home/mapa-portal-sns-2/",
+        "dominio": "www.sns.gov.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Um jeito manso: A minha experiência na urgência de um hospital",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191019211356/https://umjeitomanso.blogspot.com/2019/10/a-minha-experiencia-na-urgencia-de-um.html",
+        "dominio": "umjeitomanso.blogspot.com",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "urgencia pediatrica",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191014154832/https://www.temploescondido.pt/topic/urgencia%20pediatrica",
+        "dominio": "www.temploescondido.pt",
+        "query": "urgencia fecha hospital SNS"
+      },
+      {
+        "titulo": "Kant_O_XimPi: SNS",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190402010132/https://kantoximpi.blogspot.com/search/label/SNS",
+        "dominio": "kantoximpi.blogspot.com",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Médico de família – Olhe Pelas Suas Costas",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191207074807/https://olhepelassuascostas.pt/medico-de-familia/",
+        "dominio": "olhepelassuascostas.pt",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Desfazer Nós, Criar Laços...: Medico",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190522184048/https://desfazer-nos-criar-lacos.blogspot.com/search/label/Medico",
+        "dominio": "desfazer-nos-criar-lacos.blogspot.com",
+        "query": "medico familia SNS falta"
+      },
+      {
+        "titulo": "Almada Risco de encerramento da urgencia pediatrica do hospital Garcia de Orta - Bloco de Esq - Rost",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190209181502/https://www.rostos.pt/inicio2.asp?cronica=2002125&mostra=2&seccao=bastidores&titulo=Almada-Risco-de-encerramento-da-urgenc",
+        "dominio": "www.rostos.pt",
+        "query": "hospital encerramento urgencia pediatrica"
+      },
+      {
+        "titulo": "Saúde Oral: 370. Ministro promete dentista gratuito para crianças",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190325013825/http://saudeoral.blogspot.com/2009/07/370-ministro-promete-dentista-gratuito.html?showComment=1310356440393",
+        "dominio": "saudeoral.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "saude - Jornal de Negócios",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191217135657/https://www.jornaldenegocios.pt/economia/saude",
+        "dominio": "www.jornaldenegocios.pt",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Saúde SA: Paulo Macedo promete",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190330182547/http://saudesa.blogspot.com/2013/04/paulo-macedo-promete.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Saúde SA: Sustentabilidade do SNS",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190319091401/http://saudesa.blogspot.com/2006/11/sustentabilidade-do-sns.html",
+        "dominio": "saudesa.blogspot.com",
+        "query": "ministro saude promete SNS"
+      },
+      {
+        "titulo": "Vida de Mulher aos 40: ambulancia",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191023092822/https://vidademulheraos40.blogspot.com/search/label/ambulancia",
+        "dominio": "vidademulheraos40.blogspot.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Diário da CVP: CVP Pereira faz parto dentro da Ambulancia",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191223061009/http://diariodacvp.blogspot.com/2011/03/cvp-de-pereira-faz-parto-dentro-da.html?showComment=1299532625113",
+        "dominio": "diariodacvp.blogspot.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Mais um parto efectuado numa ambulância. – Notícias de Sines",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190522175118/https://noticiasdesines.com/2019/04/17/mais-um-parto-efectuado-numa-ambulancia/",
+        "dominio": "noticiasdesines.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "ordem dos medicos",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191014161857/https://www.temploescondido.pt/topic/ordem%20dos%20medicos",
+        "dominio": "www.temploescondido.pt",
+        "query": "SNS crise enfermeiros medicos"
+      },
+      {
+        "titulo": "Mapa Portal SNS – SNS",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191120131758/https://www.sns.gov.pt/home/mapa-portal-sns-2/",
+        "dominio": "www.sns.gov.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Gestão Partilhada de Recursos do SNS – SNS",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190420013402/https://stg.sns.gov.pt/sns/gestao-partilhada-de-recursos-do-sns/",
+        "dominio": "stg.sns.gov.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Transplante Pulmonar e Transplante Renal: Transplantes: morrem 6 portugueses por mês à espera de um ",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190906032417/http://transplantes-pulmonares.blogspot.com/2019/01/transplantes-morrem-6-portugueses-por.html",
+        "dominio": "transplantes-pulmonares.blogspot.com",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Iniciativas Políticas & Procedimentos Legislativos – SNS",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190418005918/https://s-1.sns.gov.pt/sns/reforma-do-sns/iniciativas-politicas-e-procedimentos-legislativos/",
+        "dominio": "s-1.sns.gov.pt",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Bombeiros de Grândola ajudam menina a vir ao mundo dentro de ambulância - Rádio Campanário",
+        "ano": 2021,
+        "url": "https://arquivo.pt/wayback/20210101065935/https://www.radiocampanario.com/ultimas/regional/bombeiros-de-grandola-ajudam-menina-a-vir-ao-mundo-dentro-de-ambulancia",
+        "dominio": "www.radiocampanario.com",
+        "query": "parto ambulancia hospital"
+      },
+      {
+        "titulo": "Nível III: Cirurgia de Ambulatório, Cuidados Intensivos e Ginecologia - Noticias",
+        "ano": 2021,
+        "url": "https://arquivo.pt/wayback/20210101041538/http://www.radiofundacao.net/noticias_geral.php?a=13&id=1219",
+        "dominio": "www.radiofundacao.net",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "CHAA assinala os 35 anos do SNS - Noticias",
+        "ano": 2021,
+        "url": "https://arquivo.pt/wayback/20210101044226/http://www.radiofundacao.net/noticias_geral.php?a=13&id=986",
+        "dominio": "www.radiofundacao.net",
+        "query": "lista espera cirurgia SNS"
+      },
+      {
+        "titulo": "Uma semana de greves na Saúde: tudo o que precisa de saber - TSF",
+        "ano": 2021,
+        "url": "https://arquivo.pt/wayback/20210101020202/https://www.tsf.pt/portugal/sociedade/amp/perguntas-e-respostas-porque-uma-semana-de-greves-na-saude-11066546.html",
+        "dominio": "www.tsf.pt",
+        "query": "lista espera cirurgia SNS"
+      }
+    ],
+    "sites_governo": [
+      {
+        "url": "www.min-saude.pt",
+        "ativo": false,
+        "redir": false,
+        "erro": "Conexão recusada",
+        "n_versoes": 10,
+        "desde": 1998,
+        "ate": 2000
+      },
+      {
+        "url": "www.dgs.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2006,
+        "ate": 2006
+      },
+      {
+        "url": "www.sns.gov.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2016,
+        "ate": 2016
+      },
+      {
+        "url": "www.acss.min-saude.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2007,
+        "ate": 2007
+      },
+      {
+        "url": "www.infarmed.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 1996,
+        "ate": 1999
+      },
+      {
+        "url": "www.inem.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2004,
+        "ate": 2005
+      },
+      {
+        "url": "www.ers.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2005,
+        "ate": 2006
+      },
+      {
+        "url": "www.spms.min-saude.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2013,
+        "ate": 2015
+      },
+      {
+        "url": "portal-chsj.min-saude.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2014,
+        "ate": 2016
+      },
+      {
+        "url": "www.chln.min-saude.pt",
+        "ativo": true,
+        "redir": true,
+        "erro": null,
+        "n_versoes": 10,
+        "desde": 2008,
+        "ate": 2011
+      },
+      {
+        "url": "www.hff.min-saude.pt",
+        "ativo": true,
+        "redir": false,
+        "erro": "SSL falhou, HTTP ok",
+        "n_versoes": 10,
+        "desde": 2009,
+        "ate": 2014
+      }
+    ],
+    "programas_encontrados": [
+      {
+        "titulo": "Perguntas & Respostas – SNS",
+        "governo": "XVII governo",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170226170710/https://www.sns.gov.pt/sns/reforma-do-sns/perguntas-e-respostas/"
+      },
+      {
+        "titulo": "Ministério da Saúde – SNS",
+        "governo": "XVII governo",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190420015945/https://stg.sns.gov.pt/institucional/ministerio-da-saude/"
+      },
+      {
+        "titulo": "Ministério da Saúde – SNS",
+        "governo": "XVII governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181113033049/https://www.sns.gov.pt/institucional/ministerio-da-saude/"
+      },
+      {
+        "titulo": "Ministério da Saúde – SNS",
+        "governo": "XVII governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181113195459/https://s-1.sns.gov.pt/institucional/ministerio-da-saude/"
+      },
+      {
+        "titulo": "Ministério da Saúde – SNS",
+        "governo": "XVII governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181113033235/https://s-2.sns.gov.pt/institucional/ministerio-da-saude/"
+      },
+      {
+        "titulo": "Portal da Saúde - Início",
+        "governo": "XIX governo",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150423204659/http://www.min-saude.pt/portal"
+      },
+      {
+        "titulo": "Portal da Saúde - Consulta de Saúde do Viajante",
+        "governo": "XIX governo",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150505075225/http://www.min-saude.pt/portal/conteudos/informacoes+uteis/saude+em+viagem/consulta+de+saude+do+viajante.htm"
+      },
+      {
+        "titulo": "Serviço Nacional de Saúde – SNS",
+        "governo": "XIX governo",
+        "ano": 2016,
+        "url": "https://arquivo.pt/wayback/20160607041829/https://www.sns.gov.pt/sns/servico-nacional-de-saude/"
+      },
+      {
+        "titulo": "Serviço Nacional de Saúde – SNS",
+        "governo": "XIX governo",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170222191501/https://www.sns.gov.pt/sns/servico-nacional-de-saude/"
+      },
+      {
+        "titulo": "Serviço Nacional de Saúde – SNS",
+        "governo": "XIX governo",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190425163306/https://s-2.sns.gov.pt/sns/servico-nacional-de-saude/"
+      },
+      {
+        "titulo": "Portal da Saúde - Cartão Europeu de Seguro de Doença",
+        "governo": "XXI governo",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151207063109/http://www.min-saude.pt/portal/conteudos/informacoes+uteis/saude+em+viagem/cartaoeuropeudesegurodoenca.htm"
+      },
+      {
+        "titulo": "IPOC > IPOCFG, EPE > Homepage",
+        "governo": "XXI governo",
+        "ano": 2016,
+        "url": "https://arquivo.pt/wayback/20160210171503/http://www.croc.min-saude.pt/"
+      },
+      {
+        "titulo": "IPOC > IPOCFG, EPE > Homepage",
+        "governo": "XXI governo",
+        "ano": 2016,
+        "url": "https://arquivo.pt/wayback/20160606055422/http://www.croc.min-saude.pt/"
+      },
+      {
+        "titulo": "Saúde Oral – SNS",
+        "governo": "XXI governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181113063003/https://www.sns.gov.pt/cidadao/saude-oral/"
+      },
+      {
+        "titulo": "Conselho Nacional de Saúde – SNS",
+        "governo": "XXI governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20180331224853/https://www.sns.gov.pt/noticias/2016/08/23/conselho-nacional-de-saude-2/"
+      },
+      {
+        "titulo": "Ministério da Saúde – SNS",
+        "governo": "XXII governo",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20191120125521/https://www.sns.gov.pt/institucional/ministerio-da-saude/"
+      },
+      {
+        "titulo": "O Pafúncio: SNS",
+        "governo": "XXII governo",
+        "ano": 2016,
+        "url": "https://arquivo.pt/wayback/20161104171138/http://opafuncio.blogspot.pt/search/label/SNS"
+      },
+      {
+        "titulo": "Microsoft Word - RNEHR Anestesiologia-Aprovada-19-06-2017",
+        "governo": "XXII governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181115004204/https://stg.sns.gov.pt/wp-content/uploads/2017/06/RNEHR-Anestesiologia-Aprovado-Portal-SNS-19-06-2017.pdf"
+      },
+      {
+        "titulo": "O Pafúncio: SNS",
+        "governo": "XXII governo",
+        "ano": 2019,
+        "url": "https://arquivo.pt/wayback/20190903211957/http://opafuncio.blogspot.com/search/label/SNS"
+      },
+      {
+        "titulo": "Kant_O_XimPi: SNS",
+        "governo": "XXIII governo",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20150520081859/http://kantoximpi.blogspot.pt/search/label/SNS"
+      },
+      {
+        "titulo": "Kant_O_XimPi: SNS",
+        "governo": "XXIII governo",
+        "ano": 2015,
+        "url": "https://arquivo.pt/wayback/20151202123113/http://kantoximpi.blogspot.pt/search/label/SNS"
+      },
+      {
+        "titulo": "Agrupamento de Centros de Saúde do Dão – Lafões – SNS",
+        "governo": "XXIII governo",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20170812182426/https://www.sns.gov.pt/entidades-de-saude/agrupamento-de-centros-do-dao-lafoes/"
+      },
+      {
+        "titulo": "Agrupamento de Centros de Saúde do Dão – Lafões – SNS",
+        "governo": "XXIII governo",
+        "ano": 2017,
+        "url": "https://arquivo.pt/wayback/20171221145125/https://www.sns.gov.pt/entidades-de-saude/agrupamento-de-centros-do-dao-lafoes/"
+      },
+      {
+        "titulo": "Portal da Saúde - Início",
+        "governo": "XXIII governo",
+        "ano": 2012,
+        "url": "https://arquivo.pt/wayback/20120830184820/http://www.min-saude.pt/portal"
+      },
+      {
+        "titulo": "XXIV Congresso OMD - Saude Oral",
+        "governo": "XXIV governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181115032150/https://www.saudeoral.pt/sobre/xxiv-congresso-omd/"
+      },
+      {
+        "titulo": "XXIV Congresso OMD - Saude Oral",
+        "governo": "XXIV governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181114042659/https://www.saudeoral.pt/sobre/xxiv-congresso-omd/"
+      },
+      {
+        "titulo": "Microsoft Word - RNEHR Anestesiologia-Aprovada-19-06-2017",
+        "governo": "XXIV governo",
+        "ano": 2018,
+        "url": "https://arquivo.pt/wayback/20181115004204/https://stg.sns.gov.pt/wp-content/uploads/2017/06/RNEHR-Anestesiologia-Aprovado-Portal-SNS-19-06-2017.pdf"
+      }
+    ]
+  },
+  "maternidades": {
+    "fechadas": [
+      {
+        "nome": "Maternidade do Hospital de Elvas",
+        "hospital": "Hospital de Santa Luzia de Elvas",
+        "distrito": "Portalegre",
+        "ano_fecho": 2006,
+        "motivo": "Primeira a fechar, gravidas redirecionadas para Badajoz (Espanha)",
+        "link_arquivo": "https://arquivo.pt/wayback/20070101000000/http://www.min-saude.pt/",
+        "alternativa": "Badajoz (Espanha) / Hospital de Portalegre"
+      },
+      {
+        "nome": "Maternidade do Hospital de Barcelos",
+        "hospital": "Hospital de Barcelos",
+        "distrito": "Braga",
+        "ano_fecho": 2006,
+        "motivo": "Reestruturacao da rede obstetrica. Redirecionadas para Hospital de Braga",
+        "link_arquivo": "https://arquivo.pt/wayback/20070101000000/http://www.min-saude.pt/",
+        "alternativa": "Hospital de Braga (25 min)"
+      },
+      {
+        "nome": "Maternidade do Hospital de Santo Tirso",
+        "hospital": "Hospital de Santo Tirso",
+        "distrito": "Porto",
+        "ano_fecho": 2006,
+        "motivo": "Integracao no Centro Hospitalar do Medio Ave. Redirecionadas para Famalicao",
+        "link_arquivo": "https://arquivo.pt/wayback/20070101000000/http://www.min-saude.pt/",
+        "alternativa": "Hospital de Famalicao (20 min)"
+      },
+      {
+        "nome": "Maternidade do Hospital de Oliveira de Azemeis",
+        "hospital": "Hospital de Oliveira de Azemeis",
+        "distrito": "Aveiro",
+        "ano_fecho": 2006,
+        "motivo": "Volume insuficiente. Redirecionadas para Santa Maria da Feira",
+        "link_arquivo": "https://arquivo.pt/wayback/20070101000000/http://www.min-saude.pt/",
+        "alternativa": "Hospital de Sao Sebastiao, Santa Maria da Feira (20 min)"
+      },
+      {
+        "nome": "Maternidade do Hospital de Mirandela",
+        "hospital": "Hospital de Mirandela",
+        "distrito": "Braganca",
+        "ano_fecho": 2006,
+        "motivo": "Encerrou a 11 de setembro. Redirecionadas para Braganca (60 min)",
+        "link_arquivo": "https://arquivo.pt/wayback/20070301000000/http://www.min-saude.pt/",
+        "alternativa": "Hospital de Braganca (60 min)"
+      },
+      {
+        "nome": "Maternidade do Hospital da Figueira da Foz",
+        "hospital": "Hospital Distrital da Figueira da Foz",
+        "distrito": "Coimbra",
+        "ano_fecho": 2006,
+        "motivo": "Encerrou a 4 de novembro. Redirecionadas para Coimbra/Leiria",
+        "link_arquivo": "https://arquivo.pt/wayback/20070301000000/http://www.min-saude.pt/",
+        "alternativa": "Maternidade Bissaya Barreto, Coimbra (45 min) / Hospital de Leiria"
+      },
+      {
+        "nome": "Maternidade do Hospital de Chaves",
+        "hospital": "Hospital de Chaves",
+        "distrito": "Vila Real",
+        "ano_fecho": 2007,
+        "motivo": "Falta de obstetras. Redirecionadas para Vila Real (60 km)",
+        "link_arquivo": "https://arquivo.pt/wayback/20080101000000/http://www.min-saude.pt/",
+        "alternativa": "Hospital de Vila Real (60 km)"
+      },
+      {
+        "nome": "Maternidade do Hospital de Torres Vedras",
+        "hospital": "Hospital de Torres Vedras",
+        "distrito": "Lisboa",
+        "ano_fecho": 2013,
+        "motivo": "Falta cronica de obstetras e anestesistas. Redirecionadas para Caldas da Rainha",
+        "link_arquivo": "https://arquivo.pt/wayback/20130101000000/http://www.min-saude.pt/",
+        "alternativa": "Hospital de Caldas da Rainha (30 min)"
+      }
+    ],
+    "encerramentos_temporarios": [
+      {
+        "hospital": "Hospital de Cascais (Dr. Jose de Almeida)",
+        "distrito": "Lisboa",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital Amadora-Sintra (Prof. Fernando Fonseca)",
+        "distrito": "Lisboa",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital Garcia de Orta (Almada)",
+        "distrito": "Setubal",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital Sao Bernardo (Setubal)",
+        "distrito": "Setubal",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital Sao Francisco Xavier (Lisboa)",
+        "distrito": "Lisboa",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital Beatriz Angelo (Loures)",
+        "distrito": "Lisboa",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital de Abrantes (Centro Hospitalar do Medio Tejo)",
+        "distrito": "Santarem",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital de Santarem",
+        "distrito": "Santarem",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital das Caldas da Rainha",
+        "distrito": "Leiria",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      },
+      {
+        "hospital": "Hospital do Barreiro (Centro Hospitalar Barreiro-Montijo)",
+        "distrito": "Setubal",
+        "tipo": "Urgencia obstetrica",
+        "motivo": "Escalas incompletas / falta de obstetras",
+        "link_arquivo": "https://arquivo.pt/wayback/20240101000000/http://www.sns.gov.pt/"
+      }
+    ],
+    "stats": {
+      "total_fechadas_permanente": 8,
+      "dias_urgencias_encerradas_q1_2024": 438,
+      "partos_inem_2024": 225,
+      "consulta_espera": 1088656,
+      "distritos_sem_maternidade": [
+        "Portalegre",
+        "Bragança"
+      ],
+      "nota": "Os distritos de Portalegre e Bragança não contam actualmente com maternidade permanente em funcionamento, sendo os partos referenciados a unidades de distritos vizinhos."
+    }
+  },
+  "promessas_repetidas": [
+    {
+      "tema": "Médico de família para todos",
+      "descricao": "Compromisso transversal a vários Governos no que respeita à atribuição universal de médico de família.",
+      "governos": [
+        "XVII (2005)",
+        "XVIII (2009)",
+        "XXI (2016)",
+        "XXII (2020)",
+        "XXIII (2023)",
+        "XXIV (2024)"
+      ],
+      "resultado": "Segundo o Portal da Transparência do SNS, em 2026 cerca de 1,5 milhões de utentes permaneciam sem médico de família atribuído. O compromisso tem sido reiterado por sucessivos programas de Governo."
+    },
+    {
+      "tema": "Construção de novos hospitais",
+      "descricao": "Projectos de novos hospitais documentados em sucessivos programas de Governo.",
+      "governos": [
+        "XIX (2012, Hospital do Seixal)",
+        "XXII (2020, Hospital Lisboa Oriental, Seixal e Sintra)",
+        "XXIII (2023, mesmos projectos)",
+        "XXIV (2024, Hospital de Lisboa Oriental)"
+      ],
+      "resultado": "Em 2026, os projectos encontravam-se em fases distintas de planeamento e execução. O Hospital de Lisboa Oriental tem horizonte previsto para 2027-2028."
+    },
+    {
+      "tema": "Reforma da saúde mental",
+      "descricao": "A saúde mental foi identificada como prioridade em sucessivos programas de Governo.",
+      "governos": [
+        "XVII (2006, Plano Nacional)",
+        "XXI (2018, renovação do Plano)",
+        "XXIII (2023, saúde mental nas escolas)",
+        "XXIV (2024, reforço da saúde mental)"
+      ],
+      "resultado": "A OCDE documenta que Portugal dedica cerca de 5% do orçamento da saúde à saúde mental, abaixo da média dos países da OCDE (cerca de 10%)."
+    },
+    {
+      "tema": "Redução das listas de espera cirúrgicas",
+      "descricao": "Compromisso recorrente de reduzir os tempos de espera para cirurgia programada.",
+      "governos": [
+        "XVII (2005)",
+        "XIX (2012, SIGIC renovado)",
+        "XXII (2020, pós-COVID)",
+        "XXIII (2023)",
+        "XXIV (2025)"
+      ],
+      "resultado": "Em 2026, o SIGIC/ACSS registava mais de 300 mil utentes em espera. O tempo mediano variou entre 3,8 e 7,1 meses ao longo do período, influenciado pela pandemia COVID-19."
+    },
+    {
+      "tema": "Estabilização das urgências hospitalares",
+      "descricao": "Compromisso recorrente de reforço e reorganização das urgências hospitalares.",
+      "governos": [
+        "XIX (2012, reorganização)",
+        "XXI (2017, reforço de recursos)",
+        "XXII (2020, reforma)",
+        "XXIII (2022, plano de emergência)",
+        "XXIV (2024, plano de emergência)"
+      ],
+      "resultado": "Os dados SDM registam 438 dias de encerramento parcial no Q1 2024 e 227 dias no Q1 2025 — uma redução de 48% face ao período homólogo."
+    },
+    {
+      "tema": "Contratação de enfermeiros",
+      "descricao": "Necessidade de reforço de efectivos de enfermagem identificada em sucessivos programas de Governo.",
+      "governos": [
+        "XIX (2011)",
+        "XXI (2017, 8.400 profissionais)",
+        "XXII (2020)",
+        "XXIV (2024, 1.000 enfermeiros)"
+      ],
+      "resultado": "Segundo a OCDE, Portugal tem cerca de 7,1 enfermeiros por 1.000 habitantes (média OCDE: 9,2). A Ordem dos Enfermeiros documenta a estimativa de reforço necessário para o SNS."
+    },
+    {
+      "tema": "Saúde oral no SNS",
+      "descricao": "Compromisso recorrente de alargamento dos cuidados de saúde oral no SNS.",
+      "governos": [
+        "XVII (2005)",
+        "XVIII (2009, expansão cheques-dentista)",
+        "XXI (2016)",
+        "XXIV (2024)"
+      ],
+      "resultado": "O programa de cheques-dentista encontra-se em vigor desde 2008 e tem sido progressivamente alargado. O valor dos cheques é objecto de debate técnico no sector."
+    }
+  ],
+  "timeline_eventos": [
+    {
+      "ano": 1979,
+      "titulo": "Criação do SNS",
+      "desc": "Lei 56/79 de 15 de Setembro cria o Serviço Nacional de Saúde, universal, geral e gratuito.",
+      "tipo": "marco",
+      "link_arquivo": "",
+      "nota_arquivo": "Anterior ao início do Arquivo.pt (1996). Legislação consultável no Diário da República Electrónico."
+    },
+    {
+      "ano": 1982,
+      "titulo": "Lei de Bases da Saúde original",
+      "desc": "Lei 48/90 estabelece as bases do sistema de saúde português.",
+      "tipo": "legislacao",
+      "link_arquivo": "",
+      "nota_arquivo": "Anterior ao início do Arquivo.pt (1996)."
+    },
+    {
+      "ano": 1990,
+      "titulo": "Nova Lei de Bases da Saúde",
+      "desc": "Lei 48/90 reformula as bases, prevendo a gestão privada de hospitais.",
+      "tipo": "legislacao",
+      "link_arquivo": "",
+      "nota_arquivo": "Anterior ao início do Arquivo.pt (1996)."
+    },
+    {
+      "ano": 1993,
+      "titulo": "Estatuto do SNS",
+      "desc": "Decreto-Lei 11/93 aprova o primeiro Estatuto do SNS, criando as Administrações Regionais de Saúde.",
+      "tipo": "legislacao",
+      "link_arquivo": "",
+      "nota_arquivo": "Anterior ao início do Arquivo.pt (1996)."
+    },
+    {
+      "ano": 1995,
+      "titulo": "Agência de Contratualização de Serviços de Saúde",
+      "desc": "Criação da agência para regular contratos de prestação de cuidados de saúde.",
+      "tipo": "reforma",
+      "link_arquivo": "",
+      "nota_arquivo": "Anterior ao início do Arquivo.pt (1996)."
+    },
+    {
+      "ano": 1999,
+      "titulo": "Primeiros Centros de Saude de 3a geracao",
+      "desc": "Experiencias piloto de autonomia dos centros de saude, precursoras das USF",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20000101000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2002,
+      "titulo": "Hospitais SA",
+      "desc": "Transformação de 34 hospitais em sociedades anónimas com modelo de gestão empresarial.",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20030101000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2002,
+      "titulo": "Primeiras PPP hospitalares",
+      "desc": "Lancamento das Parcerias Publico-Privadas: Hospital de Cascais, Braga, Loures e Vila Franca de Xira",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20030601000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2005,
+      "titulo": "Reforma dos Cuidados Primarios",
+      "desc": "XVII Governo lanca a Missao para os Cuidados de Saude Primarios e cria as primeiras USF",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20060101000000/http://www.mcsp.min-saude.pt/"
+    },
+    {
+      "ano": 2006,
+      "titulo": "RNCCI — Cuidados Continuados",
+      "desc": "Decreto-Lei 101/2006 cria a Rede Nacional de Cuidados Continuados Integrados",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20070101000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2006,
+      "titulo": "Reestruturação da rede de maternidades",
+      "desc": "Início da reestruturação da rede de maternidades. Oito unidades foram encerradas permanentemente entre 2006 e 2013, no âmbito do plano da Comissão Nacional de Saúde Materna e Neonatal.",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20070301000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2007,
+      "titulo": "Linha Saude 24",
+      "desc": "Lancamento da linha telefonica Saude 24 para triagem e aconselhamento clinico",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20080101000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2008,
+      "titulo": "Cheques-dentista",
+      "desc": "Inicio do programa de cheques-dentista para gravidas e criancas",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20090101000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2011,
+      "titulo": "Programa de Assistência Económica e Financeira",
+      "desc": "Portugal recorre a assistência financeira internacional. A OCDE documenta ajustamentos orçamentais na saúde ao longo do período 2011-2014.",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20120101000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2011,
+      "titulo": "Revisão das taxas moderadoras",
+      "desc": "Actualização dos valores das taxas moderadoras no âmbito do Memorando de Entendimento.",
+      "tipo": "legislacao",
+      "link_arquivo": "https://arquivo.pt/wayback/20120601000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2012,
+      "titulo": "Fusões hospitalares",
+      "desc": "Criação de centros hospitalares por fusão de unidades, com o objectivo de racionalizar a gestão da rede hospitalar.",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20130101000000/http://www.min-saude.pt/"
+    },
+    {
+      "ano": 2013,
+      "titulo": "Mobilidade internacional de profissionais",
+      "desc": "A Ordem dos Médicos e a Ordem dos Enfermeiros documentam um aumento expressivo de declarações para exercício profissional no estrangeiro ao longo do período 2011-2024.",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20140101000000/http://www.ordemdosmedicos.pt/"
+    },
+    {
+      "ano": 2015,
+      "titulo": "Novo ciclo político e retoma de contratações",
+      "desc": "O XXI Governo (PS, com acordos parlamentares) dá início à eliminação das taxas moderadoras nos cuidados primários e à retoma das contratações para o SNS.",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20160101000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2016,
+      "titulo": "Portal SNS.gov.pt",
+      "desc": "Lancamento do portal SNS com informacao publica sobre tempos de espera e indicadores",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20170101000000/https://www.sns.gov.pt/"
+    },
+    {
+      "ano": 2019,
+      "titulo": "Nova Lei de Bases da Saude",
+      "desc": "Lei 95/2019 aprova novas bases da saude, reafirmando o carater publico e universal do SNS",
+      "tipo": "legislacao",
+      "link_arquivo": "https://arquivo.pt/wayback/20200101000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2019,
+      "titulo": "Reversao do Hospital de Braga",
+      "desc": "Hospital de Braga regressa a gestao publica apos PPP. Outros hospitais PPP mantem-se privados.",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20191001000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2020,
+      "titulo": "Pandemia COVID-19",
+      "desc": "Primeiro caso em Portugal a 2 de marco. SNS mobilizado para a maior emergencia sanitaria em decadas",
+      "tipo": "crise",
+      "link_arquivo": "https://arquivo.pt/wayback/20200401000000/http://www.dgs.pt/"
+    },
+    {
+      "ano": 2021,
+      "titulo": "Vacinacao COVID-19 recorde",
+      "desc": "Portugal atinge >90% de cobertura vacinal, uma das mais altas do mundo. Task force liderada pelo Vice-Almirante Gouveia e Melo",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20211001000000/http://www.dgs.pt/"
+    },
+    {
+      "ano": 2022,
+      "titulo": "Mudança na pasta da Saúde",
+      "desc": "Marta Temido apresenta a demissão do cargo de Ministra da Saúde em Agosto de 2022.",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20220901000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2023,
+      "titulo": "Desafios operacionais nas urgências",
+      "desc": "Os dados SDM/SNS documentam 438 dias de encerramento parcial de urgências no Q1 2024 e 201 partos pré-hospitalares registados pelo INEM em 2023.",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20230901000000/http://www.sns.gov.pt/"
+    },
+    {
+      "ano": 2023,
+      "titulo": "Plano de Recuperacao e Resiliencia (Saude)",
+      "desc": "Componente C12 do PRR com 1.383M EUR para cuidados primarios, saude mental e digitalizacao",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20230601000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2024,
+      "titulo": "Novo governo AD e plano de emergencia",
+      "desc": "XXIV Governo (AD) lanca plano de emergencia para o SNS. Dedicacao plena dos medicos aprovada.",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20240601000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2024,
+      "titulo": "Estatuto do SNS renovado",
+      "desc": "Decreto-Lei 52/2024 aprova novo Estatuto do SNS com maior autonomia de gestao hospitalar",
+      "tipo": "legislacao",
+      "link_arquivo": "https://arquivo.pt/wayback/20241001000000/http://www.portugal.gov.pt/"
+    },
+    {
+      "ano": 2025,
+      "titulo": "Debate sobre a operação do INEM",
+      "desc": "Os Relatórios de Actividade do INEM documentam desafios de cobertura de meios, sobretudo em zonas rurais, motivando debate público sobre a reforma da emergência pré-hospitalar.",
+      "tipo": "marco",
+      "link_arquivo": "https://arquivo.pt/wayback/20250301000000/http://www.inem.pt/"
+    },
+    {
+      "ano": 2025,
+      "titulo": "Dedicacao plena entra em vigor",
+      "desc": "Regime de dedicacao plena/exclusiva dos medicos ao SNS em vigor mas com adesao voluntaria baixa",
+      "tipo": "reforma",
+      "link_arquivo": "https://arquivo.pt/wayback/20250601000000/http://www.portugal.gov.pt/"
+    }
+  ],
+  "antes_depois": [
+    {
+      "site": "www.min-saude.pt",
+      "nome": "Ministerio da Saude",
+      "estado_atual": "Inacessivel (conexao recusada)",
+      "capturas": [
+        {
+          "ano": 2000,
+          "timestamp": "20000601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.min-saude.pt&timestamp=20000601000000",
+          "nota": "Primeira versao conhecida, design basico HTML"
+        },
+        {
+          "ano": 2005,
+          "timestamp": "20050601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.min-saude.pt&timestamp=20050601000000",
+          "nota": "Portal da Saude, redesign sob XVII Governo"
+        },
+        {
+          "ano": 2010,
+          "timestamp": "20100601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.min-saude.pt&timestamp=20100601000000",
+          "nota": "Versao consolidada, informacao estruturada"
+        },
+        {
+          "ano": 2013,
+          "timestamp": "20130601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.min-saude.pt&timestamp=20130601000000",
+          "nota": "Período do Programa de Assistência Económica e Financeira. Versão do site com estrutura simplificada."
+        },
+        {
+          "ano": 2015,
+          "timestamp": "20150601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.min-saude.pt&timestamp=20150601000000",
+          "nota": "Ultima versao antes da transicao para sns.gov.pt"
+        },
+        {
+          "ano": 2020,
+          "timestamp": "20200601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.min-saude.pt&timestamp=20200601000000",
+          "nota": "Redireciona para sns.gov.pt durante pandemia"
+        },
+        {
+          "ano": 2024,
+          "timestamp": "20240601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.min-saude.pt&timestamp=20240601000000",
+          "nota": "Site inacessivel - so existe no Arquivo.pt"
+        }
+      ]
+    },
+    {
+      "site": "www.dgs.pt",
+      "nome": "Direcao-Geral da Saude",
+      "estado_atual": "Ativo (redireciona para dgs.min-saude.pt)",
+      "capturas": [
+        {
+          "ano": 2006,
+          "timestamp": "20060601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.dgs.pt&timestamp=20060601000000",
+          "nota": "Site informativo basico, alertas de saude publica"
+        },
+        {
+          "ano": 2010,
+          "timestamp": "20100601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.dgs.pt&timestamp=20100601000000",
+          "nota": "Redesign com mais informacao para cidadaos"
+        },
+        {
+          "ano": 2015,
+          "timestamp": "20150601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.dgs.pt&timestamp=20150601000000",
+          "nota": "Versao modernizada, normas clinicas online"
+        },
+        {
+          "ano": 2020,
+          "timestamp": "20200601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.dgs.pt&timestamp=20200601000000",
+          "nota": "Centro da comunicacao COVID-19, dashboard epidemiologico"
+        },
+        {
+          "ano": 2024,
+          "timestamp": "20240601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.dgs.pt&timestamp=20240601000000",
+          "nota": "Pos-pandemia, retorno a comunicacao regular de saude publica"
+        }
+      ]
+    },
+    {
+      "site": "www.sns.gov.pt",
+      "nome": "Portal do SNS",
+      "estado_atual": "Ativo",
+      "capturas": [
+        {
+          "ano": 2016,
+          "timestamp": "20160601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.sns.gov.pt&timestamp=20160601000000",
+          "nota": "Lancamento: portal unico do SNS com informacao transparente"
+        },
+        {
+          "ano": 2018,
+          "timestamp": "20180601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.sns.gov.pt&timestamp=20180601000000",
+          "nota": "Consolidacao: tempos de espera e indicadores publicos"
+        },
+        {
+          "ano": 2020,
+          "timestamp": "20200601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.sns.gov.pt&timestamp=20200601000000",
+          "nota": "Pandemia: destaque para informacao COVID-19 e vacinacao"
+        },
+        {
+          "ano": 2022,
+          "timestamp": "20220601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.sns.gov.pt&timestamp=20220601000000",
+          "nota": "Pos-pandemia, integracao com MySNS e SNS 24"
+        },
+        {
+          "ano": 2024,
+          "timestamp": "20240601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.sns.gov.pt&timestamp=20240601000000",
+          "nota": "Novo governo, redesign parcial e novo branding"
+        }
+      ]
+    },
+    {
+      "site": "www.acss.min-saude.pt",
+      "nome": "ACSS - Administracao Central do Sistema de Saude",
+      "estado_atual": "Ativo (redireciona)",
+      "capturas": [
+        {
+          "ano": 2007,
+          "timestamp": "20070601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.acss.min-saude.pt&timestamp=20070601000000",
+          "nota": "Criacao da ACSS, site institucional basico"
+        },
+        {
+          "ano": 2010,
+          "timestamp": "20100601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.acss.min-saude.pt&timestamp=20100601000000",
+          "nota": "Portal com dados de recursos humanos e financeiros"
+        },
+        {
+          "ano": 2014,
+          "timestamp": "20140601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.acss.min-saude.pt&timestamp=20140601000000",
+          "nota": "Período do Programa de Assistência Económica e Financeira, com publicação de relatórios técnicos."
+        },
+        {
+          "ano": 2018,
+          "timestamp": "20180601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.acss.min-saude.pt&timestamp=20180601000000",
+          "nota": "Dados mais abertos, relatorios de contratacao"
+        },
+        {
+          "ano": 2024,
+          "timestamp": "20240601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.acss.min-saude.pt&timestamp=20240601000000",
+          "nota": "Plataforma de transparencia renovada"
+        }
+      ]
+    },
+    {
+      "site": "transparencia.sns.gov.pt",
+      "nome": "Portal da Transparencia do SNS",
+      "estado_atual": "Ativo",
+      "capturas": [
+        {
+          "ano": 2017,
+          "timestamp": "20170601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=transparencia.sns.gov.pt&timestamp=20170601000000",
+          "nota": "Lancamento: primeira publicacao sistematica de dados do SNS"
+        },
+        {
+          "ano": 2019,
+          "timestamp": "20190601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=transparencia.sns.gov.pt&timestamp=20190601000000",
+          "nota": "Expansao de indicadores: tempos de espera, cobertura MGF"
+        },
+        {
+          "ano": 2021,
+          "timestamp": "20210601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=transparencia.sns.gov.pt&timestamp=20210601000000",
+          "nota": "Dados COVID-19, vacinacao em tempo real"
+        },
+        {
+          "ano": 2023,
+          "timestamp": "20230601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=transparencia.sns.gov.pt&timestamp=20230601000000",
+          "nota": "Dados de urgencias e encerramentos publicados regularmente"
+        },
+        {
+          "ano": 2025,
+          "timestamp": "20250101000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=transparencia.sns.gov.pt&timestamp=20250101000000",
+          "nota": "Versao atual com dashboard interativo"
+        }
+      ]
+    },
+    {
+      "site": "www.portaldasaude.pt",
+      "nome": "Portal da Saude (antigo)",
+      "estado_atual": "Inacessivel (dominio extinto)",
+      "capturas": [
+        {
+          "ano": 2005,
+          "timestamp": "20050601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.portaldasaude.pt&timestamp=20050601000000",
+          "nota": "Portal informativo do XVII Governo, informacoes sobre direitos dos utentes"
+        },
+        {
+          "ano": 2008,
+          "timestamp": "20080601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.portaldasaude.pt&timestamp=20080601000000",
+          "nota": "Versao expandida com listas de espera online"
+        },
+        {
+          "ano": 2012,
+          "timestamp": "20120601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.portaldasaude.pt&timestamp=20120601000000",
+          "nota": "Período do Programa de Assistência Económica e Financeira, com informação sobre a actualização das taxas moderadoras."
+        },
+        {
+          "ano": 2015,
+          "timestamp": "20150601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.portaldasaude.pt&timestamp=20150601000000",
+          "nota": "Ultima versao antes de ser substituido pelo portal SNS.gov.pt"
+        }
+      ]
+    },
+    {
+      "site": "www.inem.pt",
+      "nome": "INEM - Instituto Nacional de Emergencia Medica",
+      "estado_atual": "Ativo (redireciona)",
+      "capturas": [
+        {
+          "ano": 2005,
+          "timestamp": "20050601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.inem.pt&timestamp=20050601000000",
+          "nota": "Site institucional com informacao sobre emergencia medica"
+        },
+        {
+          "ano": 2010,
+          "timestamp": "20100601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.inem.pt&timestamp=20100601000000",
+          "nota": "Portal com formacao para cidadaos e informacao sobre VMER"
+        },
+        {
+          "ano": 2015,
+          "timestamp": "20150601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.inem.pt&timestamp=20150601000000",
+          "nota": "Redesign moderno, app de emergencia lancada"
+        },
+        {
+          "ano": 2020,
+          "timestamp": "20200601000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.inem.pt&timestamp=20200601000000",
+          "nota": "Informacao COVID-19, protocolo de emergencia adaptado"
+        },
+        {
+          "ano": 2025,
+          "timestamp": "20250101000000",
+          "screenshot": "https://arquivo.pt/screenshot?url=www.inem.pt&timestamp=20250101000000",
+          "nota": "Debate público sobre tempos de resposta e reforma da emergência pré-hospitalar."
+        }
+      ]
+    }
+  ]
+}
